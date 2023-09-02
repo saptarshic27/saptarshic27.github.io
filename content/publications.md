@@ -15,7 +15,7 @@ Anirban Chatterjee, Bhaswar B. Bhattacharya.
 </sm>
 
 
-[**Robust crystal structure identification at extreme conditions using a density-independent spectral descriptor and supervised learning**](https://arxiv.org/abs/2307.01560)     
+[**Clustering Network Vertices in Sparse Contextual Multilayer Networks**](https://arxiv.org/abs/2307.01560)     
 Paul Lafourcade, Jean-Bernard Maillet, Christophe Denoual, Eléonore Duval, Arnaud Allera, Alexandra M. Goryaeva, Mihai-Cosmin Marinica. 
 <sm>
 [<i class="ai ai-arxiv ai"></i> *arXiv:2307.01560*](https://arxiv.org/abs/2307.01560) 
