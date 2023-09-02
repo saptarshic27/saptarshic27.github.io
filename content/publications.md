@@ -11,10 +11,7 @@ slug: research
 Anirban Chatterjee, Bhaswar B. Bhattacharya.     
 <sm>
 <a href = "/data/Research/2023KERNEL.pdf">
-<i class="fa-solid fa-file-pdf">
-::before
-</i>
-</a>
+<i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 [<i class="fab fa-github"></i> Github](https://github.com/anirbanc96/MMMD-boost-kernel-two-sample)
 </sm>
 
