@@ -5,10 +5,10 @@ slug: research
 ---
 
 
-# Papers
+# Preprints
 
-[**Neighbors Map: an Efficient Atomic Descriptor for Structural Analysis**](https://arxiv.org/abs/2307.00978)     
-Arnaud Allera, Alexandra M. Goryaeva, Paul Lafourcade, Jean-Bernard Maillet, Mihai-Cosmin Marinica     
+[**Boosting the Power of Kernel Two-Sample Tests**](https://arxiv.org/abs/2302.10687)     
+Anirban Chatterjee, Bhaswar B. Bhattacharya.     
 <sm>
 [<i class="ai ai-arxiv ai"></i> *arXiv:2307.00978*](https://arxiv.org/abs/2307.00978)  --- [<i class="fab fa-github"></i> Github](https://github.com/ai-atoms/neighbors-maps)
 </sm>
