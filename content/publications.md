@@ -32,9 +32,6 @@ Bhaswar B. Bhattacharya, Anirban Chatterjee, Svante Janson.
 <sm>
 *Combinatorics, Probability and Computing – Published May 2023*
 </sm>
-<!-- Add the image and give it a class for styling -->
-<img class="side-image" src="/images/p1.png" alt="" />
-</div>
 
 
 # Interatomic potentials
