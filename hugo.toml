@@ -22,10 +22,10 @@ enableRobotsTXT = true
     name = "CV"
     url  = "/cv.pdf"
     weight = 3
-#[[menu.main]]
-#    name = "Teaching"
-#    url  = "/teaching"
-#    weight = 2
+[[menu.main]]
+    name = "Teaching"
+    url  = "/teaching"
+    weight = 2
 
 [sitemap]
   changefreq = 'daily'
@@ -67,12 +67,12 @@ enableRobotsTXT = true
         [params.social.github]
             name = "GitHub"
             class = "fab fa-github"
-            url = "https://github.com/arn-all"
+            url = "https://github.com/anirbanc96"
             weight = 2
         [params.social.google_scholar]
             name = "Google Scholar"
             class = "ai ai-google-scholar"
-            url = "https://scholar.google.fr/citations?user=0wWNSagAAAAJ&hl=fr"
+            url = "https://scholar.google.co.in/citations?user=dBN655QAAAAJ&hl=en"
             weight = 3
         #[params.social.institution]
         #    name = "My institution"
@@ -82,13 +82,13 @@ enableRobotsTXT = true
         [params.social.linkedin]
             name = "LinkedIn"
             class = "fab fa-linkedin"
-            url = "https://www.linkedin.com/in/arnaud-allera-537441277/"
+            url = "https://www.linkedin.com/in/anirban-chatterjee-99742611b/"
             weight = 6
-        [params.social.orcid]
-            name = "ORCID iD"
-            class = "fab fa-orcid"
-            url = "https://orcid.org/0000-0002-8862-8649"
-            weight = 7
+        #[params.social.orcid]
+        #    name = "ORCID iD"
+        #    class = "fab fa-orcid"
+        #    url = "https://orcid.org/0000-0002-8862-8649"
+        #    weight = 7
 
 
 # Options for Markdown renderer
