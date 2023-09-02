@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "Teaching"
 hide_title: true
 ---
 
