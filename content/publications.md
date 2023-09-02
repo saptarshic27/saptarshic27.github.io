@@ -10,7 +10,12 @@ slug: research
 [**Boosting the Power of Kernel Two-Sample Tests**](https://arxiv.org/abs/2302.10687)     
 Anirban Chatterjee, Bhaswar B. Bhattacharya.     
 <sm>
-[<i href = "https://github.com/anirbanc96/anirban/blob/main/data/Research/2023KERNEL.pdf" class="fa-solid fa-file-pdf"></i>] [<i class="fab fa-github"></i> Github](https://github.com/anirbanc96/MMMD-boost-kernel-two-sample)
+<a href = "/data/Research/2023KERNEL.pdf">
+<i class="fa-solid fa-file-pdf">
+::before
+</i>
+</a>
+[<i class="fab fa-github"></i> Github](https://github.com/anirbanc96/MMMD-boost-kernel-two-sample)
 </sm>
 
 
