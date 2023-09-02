@@ -8,8 +8,8 @@ sitemap:
 
 ---
 
-Hi, I'm Arnaud 👋
+Hi, I'm Anirban 👋
 
-I am a post-doc at SRMP, CEA Saclay, where I develop new machine learning and deep learning methods to analyze atomic-scale processes in metals.
+I am Fourth Year Ph.D. student at the Department of Statistics and Data Science in University of Pennsylvania working under the supervision of Dr. Bhaswar B. Bhattacharya.
 
 Feel free to get in touch !
