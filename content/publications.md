@@ -28,6 +28,8 @@ Anirban Chatterjee, Sagnik Nandy, Ritwik Sadhu.
 Bhaswar B. Bhattacharya, Anirban Chatterjee, Svante Janson.         
 <sm>
 *Combinatorics, Probability and Computing – Published May 2023*
+[<i class="bi bi-journal-text"></i> *CPC*](https://doi.org/10.1017/S0963548322000335)
+[<i class="ai ai-arxiv ai"></i> *arXiv:2104.07259*](https://arxiv.org/abs/2104.07259)
 </sm>
 
 
