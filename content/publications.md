@@ -15,14 +15,13 @@ Anirban Chatterjee, Bhaswar B. Bhattacharya.
 </sm>
 
 
-[**Clustering Network Vertices in Sparse Contextual Multilayer Networks
-**](https://arxiv.org/abs/2209.07554)     
-Anirban Chatterjee, Sagnik Nandy, Ritwik Sadhu. 
+[**Robust crystal structure identification at extreme conditions using a density-independent spectral descriptor and supervised learning**](https://arxiv.org/abs/2307.01560)     
+Paul Lafourcade, Jean-Bernard Maillet, Christophe Denoual, Eléonore Duval, Arnaud Allera, Alexandra M. Goryaeva, Mihai-Cosmin Marinica. 
 <sm>
-[<i class="ai ai-arxiv ai"></i> *arXiv:22209.07554*](https://arxiv.org/abs/2209.07554) 
+[<i class="ai ai-arxiv ai"></i> *arXiv:2307.01560*](https://arxiv.org/abs/2307.01560) 
 </sm>
 
-# Publications
+
 
 <!-- Wrap your content in a container div -->
 <div class="content-container">
