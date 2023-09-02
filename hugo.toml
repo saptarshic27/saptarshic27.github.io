@@ -1,0 +1,102 @@
+
+# Global options
+baseURL = "http://anirbanchatterjee.com/"
+canonifyURLs = true
+defaultContentLanguage = "en"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+languageCode = "en"
+theme = "barks"
+title = "Anirban Chatterjee"
+enableRobotsTXT = true
+
+# Main menu
+[[menu.main]]
+    name = "About me"
+    url  = "/about"
+    weight = 2
+[[menu.main]]
+    name = "Research"
+    url  = "/research"
+    weight = 2
+[[menu.main]]
+    name = "CV"
+    url  = "/cv.pdf"
+    weight = 3
+#[[menu.main]]
+#    name = "Teaching"
+#    url  = "/teaching"
+#    weight = 2
+
+[sitemap]
+  changefreq = 'daily'
+  filename = 'sitemap.xml'
+  priority = 0.5
+
+# Customization options
+[params]
+
+    [params.head]
+        author = "Anirban Chatterjee"
+        custom_css = "/custom.css"
+        description = "Hi, I'm Anirban"
+        keywords = ["materials science", "academic", "CEA", "PhD"]
+
+    [params.navigation]
+        show_navigation = true
+
+    [params.footer]
+        show_footer = true
+
+    [params.typography]
+#        title_font = "Urbanist"
+        title_font = "Cutive Mono"
+        body_font = "Source Sans Pro"
+
+    [params.colors]
+        theme_color = "#333333"
+        background_color = "#fcfbf9"
+        text_color = "#333333"
+        link_color = "#17442a"
+
+    [params.social]
+        [params.social.email]
+            name = "E-Mail"
+            class = "fas fa-envelope"
+            url = "mailto:anirbanc@wharton.upenn.edu"
+            weight = 1
+        [params.social.github]
+            name = "GitHub"
+            class = "fab fa-github"
+            url = "https://github.com/arn-all"
+            weight = 2
+        [params.social.google_scholar]
+            name = "Google Scholar"
+            class = "ai ai-google-scholar"
+            url = "https://scholar.google.fr/citations?user=0wWNSagAAAAJ&hl=fr"
+            weight = 3
+        #[params.social.institution]
+        #    name = "My institution"
+        #    class = "fas fa-university"
+        #    url = ""
+        #    weight = 5
+        [params.social.linkedin]
+            name = "LinkedIn"
+            class = "fab fa-linkedin"
+            url = "https://www.linkedin.com/in/arnaud-allera-537441277/"
+            weight = 6
+        [params.social.orcid]
+            name = "ORCID iD"
+            class = "fab fa-orcid"
+            url = "https://orcid.org/0000-0002-8862-8649"
+            weight = 7
+
+
+# Options for Markdown renderer
+[markup]
+
+    [markup.goldmark.renderer]
+        unsafe = true
+        xHTML = true
+
+    [markup.highlight]
+        style = 'dracula'
