@@ -27,10 +27,11 @@ Anirban Chatterjee, Sagnik Nandy, Ritwik Sadhu.
 <!-- Wrap your content in a container div -->
 <div class="content-container">
 
-[**Carbon-induced strengthening of bcc iron at the atomic scale**](https://doi.org/10.1103/PhysRevMaterials.6.013608)     
-Arnaud Allera, Fabienne Ribeiro, Michel Perez, and David Rodney.          
+[**Fluctuations of subgraph counts in graphon based random graphs
+**](https://doi.org/10.1017/S0963548322000335[Opens in a new window])     
+Bhaswar B. Bhattacharya, Anirban Chatterjee, Svante Janson.         
 <sm>
-*Phys. Rev. Materials 6, 013608 – Published 18 January 2022*
+*Combinatorics, Probability and Computing – Published May 2023*
 </sm>
 <!-- Add the image and give it a class for styling -->
 <img class="side-image" src="/images/p1.png" alt="" />
