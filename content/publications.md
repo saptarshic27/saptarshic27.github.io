@@ -27,7 +27,7 @@ Anirban Chatterjee, Sagnik Nandy, Ritwik Sadhu.
 <!-- Wrap your content in a container div -->
 <div class="content-container">
 
-[**Fluctuations of subgraph counts in graphon based random graphs**](https://doi.org/10.1017/S0963548322000335[Opens in a new window])     
+[**Fluctuations of subgraph counts in graphon based random graphs**](https://doi.org/10.1017/S0963548322000335)     
 Bhaswar B. Bhattacharya, Anirban Chatterjee, Svante Janson.         
 <sm>
 *Combinatorics, Probability and Computing – Published May 2023*
