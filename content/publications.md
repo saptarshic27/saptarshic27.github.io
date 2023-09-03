@@ -44,40 +44,6 @@ Anirban Chatterjee, Rajat Subhra Hazra.
 [<i class="ai ai-arxiv ai"></i> *arXiv:2011.07912*](https://arxiv.org/abs/2011.07912)
 </sm>
 
-
-# Interatomic potentials
-
-**Fe-C** [EAM interatomic potential from Allera et al. (2022).](https://github.com/arn-all/FeC-EAM-potential)
-
-# PhD Thesis
-
-[**Atomistic modelling of dislocation glide and pinning in iron and carbon steel**](https://theses.hal.science/tel-03728547)        
-<sm> *Arnaud Allera. Université de Lyon, 2021. English. ⟨tel-03728547⟩*  
-</sm>
-
-<details><summary>Bibtex</summary>
-<p>
-
-```
-@phdthesis{allera:tel-03728547,
-  TITLE = {{Atomistic modelling of dislocation glide and pinning in iron and carbon steel}},
-  AUTHOR = {Allera, Arnaud},
-  URL = {https://theses.hal.science/tel-03728547},
-  NUMBER = {2021LYSE1293},
-  SCHOOL = {{Universit{\'e} de Lyon}},
-  YEAR = {2021},
-  MONTH = Dec,
-  KEYWORDS = {Plasticity ; Atomistic simulation ; Dislocations ; Crystal defects ; Molecular dynamics ; Interatomic potential ; Steel ; Plasticit{\'e} ; Simulation atomistique ; Dislocations ; D{\'e}fauts cristallins ; Dynamique mol{\'e}culaire ; Potentiel interatomique ; Acier},
-  TYPE = {Theses},
-  PDF = {https://theses.hal.science/tel-03728547/file/TH2021ALLERAARNAUD.pdf},
-  HAL_ID = {tel-03728547},
-  HAL_VERSION = {v1},
-}
-```
-
-</p>
-</details>
-
  
 <!-- Add a style tag with CSS to control the layout -->
 <style>
