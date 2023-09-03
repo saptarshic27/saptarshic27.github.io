@@ -6,7 +6,7 @@ hide_title: true
 # Teaching Assistant
 
 [**STAT 432** - *Spring 2022* - University of Pennsylvania](https://apps.wharton.upenn.edu/syllabi/2022A/STAT432001/)
-<\br>
+<br>
 [**STAT 961** - *Fall 2022* - University of Pennsylvania](https://katsevich-teaching.github.io/stat-9610-fall-2022/)
 
 
