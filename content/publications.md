@@ -34,6 +34,16 @@ Bhaswar B. Bhattacharya, Anirban Chatterjee, Svante Janson.
 [<i class="ai ai-arxiv ai"></i> *arXiv:2104.07259*](https://arxiv.org/abs/2104.07259)
 </sm>
 
+[**Spectral properties for the Laplacian of a generalized Wigner matrix**](https://doi.org/10.1142/S2010326322500265)     
+Anirban Chatterjee, Rajat Subhra Hazra.         
+<sm>
+*Random Matrices: Theory and Applications – Published July 2022*
+</sm>
+<sm>
+[<i class="fa-solid fa-book"></i> *RMTA*](https://doi.org/10.1142/S2010326322500265) &nbsp;
+[<i class="ai ai-arxiv ai"></i> *arXiv:2011.07912*](https://arxiv.org/abs/2011.07912)
+</sm>
+
 
 # Interatomic potentials
 
