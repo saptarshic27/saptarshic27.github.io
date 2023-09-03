@@ -8,7 +8,7 @@ slug: research
 # Preprints
 
 [**Boosting the Power of Kernel Two-Sample Tests**](https://arxiv.org/abs/2302.10687)     
-Anirban Chatterjee, Bhaswar B. Bhattacharya.     
+Anirban Chatterjee, [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html).     
 <sm>
 [<i class="ai ai-arxiv ai"></i> *arXiv:2302.10687*](https://arxiv.org/abs/2302.10687) &nbsp;
 [<i class="fab fa-github"></i> Github](https://github.com/anirbanc96/MMMD-boost-kernel-two-sample)
@@ -16,7 +16,7 @@ Anirban Chatterjee, Bhaswar B. Bhattacharya.
 
 
 [**Clustering Network Vertices in Sparse Contextual Multilayer Networks**](https://arxiv.org/abs/2209.07554)     
-Anirban Chatterjee, Sagnik Nandy, Ritwik Sadhu.
+Anirban Chatterjee, [Sagnik Nandy](https://sagnik-nandy.github.io/), [Ritwik Sadhu](https://scholar.google.co.in/citations?user=6TI7KmgAAAAJ&hl=en).
 <sm>
 [<i class="ai ai-arxiv ai"></i> *arXiv:2209.07554*](https://arxiv.org/abs/2209.07554) 
 </sm>
@@ -25,7 +25,7 @@ Anirban Chatterjee, Sagnik Nandy, Ritwik Sadhu.
 # Publications
 
 [**Fluctuations of subgraph counts in graphon based random graphs**](https://doi.org/10.1017/S0963548322000335)     
-Bhaswar B. Bhattacharya, Anirban Chatterjee, Svante Janson.         
+[Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html), Anirban Chatterjee, [Svante Janson](https://www.katalog.uu.se/profile/?id=XX2949).         
 <sm>
 *Combinatorics, Probability and Computing – Published May 2023*
 </sm>
@@ -35,7 +35,7 @@ Bhaswar B. Bhattacharya, Anirban Chatterjee, Svante Janson.
 </sm>
 
 [**Spectral properties for the Laplacian of a generalized Wigner matrix**](https://doi.org/10.1142/S2010326322500265)     
-Anirban Chatterjee, Rajat Subhra Hazra.         
+Anirban Chatterjee, [Rajat Subhra Hazra](https://sites.google.com/site/rshazra/).         
 <sm>
 *Random Matrices: Theory and Applications – Published July 2022*
 </sm>
