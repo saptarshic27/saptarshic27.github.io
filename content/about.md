@@ -12,16 +12,8 @@ hide_title: true
   <div class="text-container">
   <!-- Add your text inside a paragraph -->
   <p>
-  I am a post-doc at CEA Saclay, where I use machine learning / deep learning methods to analyze processes that happen at the atomic scale 🔬 in metals: 
-  defects formation, thermally activated process, phase transformations, materials evolution in environment, ... 
+  I'm Anirban, a Ph.D. candidate in Statistics at The Wharton School, University of Pennsylvania advised by Dr. Bhaswar Bhattacharya. My academic voyage commenced at the Indian Statistical Institute, Kolkata, where I earned both my Bachelor of Statistics and Master of Statistics degrees. These formative years equipped me with with a strong mathematical foundation to explore the depths of statistical theory and its real-world applications.
 
-  For this, I currently develop efficient atomic descriptors and machine-learning (ML) force-fields, together with [Mihai-Cosmin Marinica](https://scholar.google.com/citations?user=Yfj9RqUAAAAJ&hl=en) and [Alexandra M. Goryaeva](https://scholar.google.fr/citations?user=3VPSML8AAAAJ&hl=en).
-
-  I intensively use massively parallel computational methods such as molecular dynamics to study solid state physics problems at different scales, using both classical and ML-based methods.
-  An example is the [simulation of plasticity in metals](https://doi.org/10.1103/PhysRevMaterials.6.013608), which is mediated by dislocation motion --actually the subject of [my thesis](https://theses.hal.science/tel-03728547).
-
-  For my PhD, I worked with David Rodney (Univ. Lyon), Michel Perez (INSA) and Fabienne Ribeiro (IRSN) on the [depinning of dislocations from interstitial solutes](https://doi.org/10.1103/PhysRevMaterials.6.013608), introducing a new [potential for Fe-C](https://github.com/arn-all/FeC-EAM-potential). 
-  I defended in Dec. 2021 at Université de Lyon--UCBL.
 
   </p>
   </div>
