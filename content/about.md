@@ -13,8 +13,6 @@ In my free time I enjoy traveling, reading thrillers and watching soccer.
 
 I warmly welcome the opportunity to connect with like-minded professionals, researchers, and mentors. Please feel free to reach out through [LinkedIn](https://www.linkedin.com/in/anirban-chatterjee-99742611b/) or via email at <span style="color: navy;">anirbanc@wharton.upenn.edu</span>.
 
-Hello
-
   <!-- Add a style tag with CSS to control the layout -->
 <style>
   .content-container {
