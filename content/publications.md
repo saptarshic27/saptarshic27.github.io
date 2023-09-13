@@ -13,6 +13,7 @@ Anirban Chatterjee, [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/
 [<i class="ai ai-arxiv ai"></i> *arXiv:2302.10687*](https://arxiv.org/abs/2302.10687) &nbsp;
 [<i class="fab fa-github"></i> Github](https://github.com/anirbanc96/MMMD-boost-kernel-two-sample)
 </sm>
+(Revision requested at Biometrika)
 
 
 [**Clustering Network Vertices in Sparse Contextual Multilayer Networks**](https://arxiv.org/abs/2209.07554)     
