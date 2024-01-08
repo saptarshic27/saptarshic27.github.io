@@ -23,6 +23,11 @@ Anirban Chatterjee, [Sagnik Nandy](https://sagnik-nandy.github.io/), [Ritwik Sad
 [<i class="ai ai-arxiv ai"></i> *arXiv:2209.07554*](https://arxiv.org/abs/2209.07554) 
 </sm>
 
+[**Fluctuation of the Largest Eigenvalue of a Kernel Matrix with application in Graphon-based Random Graphs**](https://arxiv.org/abs/2401.01866)     
+Anirban Chatterjee, [Jiaoyang Huang](https://jiaoyang.github.io/).
+<sm>
+[<i class="ai ai-arxiv ai"></i> *arXiv:2401.01866*](https://arxiv.org/abs/2401.01866) 
+</sm>
 
 # Publications
 
