@@ -57,6 +57,7 @@ Anirban Chatterjee, [Rajat Subhra Hazra](https://sites.google.com/site/rshazra/)
 # Conference Publications
  
  **PrIsing: Privacy-Preserving Peer Effect Estimation via Ising Model**
+ <br>
  [Abhinav Chakraborty](https://statistics.wharton.upenn.edu/profile/abch/), Anirban Chatterjee, [Abhinandan Dalal](https://statistics.wharton.upenn.edu/profile/abdalal/).         
 <sm>
 *Accepted for Publication at AISTATS 2024*
