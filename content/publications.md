@@ -22,6 +22,9 @@ Anirban Chatterjee, [Sagnik Nandy](https://sagnik-nandy.github.io/), [Ritwik Sad
 <sm>
 [<i class="ai ai-arxiv ai"></i> *arXiv:2209.07554*](https://arxiv.org/abs/2209.07554) 
 </sm>
+<sm>
+*(Major Revision at Information and Inference: A journal of the IMA)*
+</sm>
 
 [**Fluctuation of the Largest Eigenvalue of a Kernel Matrix with application in Graphon-based Random Graphs**](https://arxiv.org/abs/2401.01866)     
 Anirban Chatterjee, [Jiaoyang Huang](https://jiaoyang.github.io/).
@@ -29,7 +32,7 @@ Anirban Chatterjee, [Jiaoyang Huang](https://jiaoyang.github.io/).
 [<i class="ai ai-arxiv ai"></i> *arXiv:2401.01866*](https://arxiv.org/abs/2401.01866) 
 </sm>
 
-# Publications
+# Journal Publications
 
 [**Fluctuations of subgraph counts in graphon based random graphs**](https://doi.org/10.1017/S0963548322000335)     
 [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html), Anirban Chatterjee, [Svante Janson](https://www.katalog.uu.se/profile/?id=XX2949).         
@@ -51,6 +54,13 @@ Anirban Chatterjee, [Rajat Subhra Hazra](https://sites.google.com/site/rshazra/)
 [<i class="ai ai-arxiv ai"></i> *arXiv:2011.07912*](https://arxiv.org/abs/2011.07912)
 </sm>
 
+# Conference Publications
+ 
+ **PrIsing: Privacy-Preserving Peer Effect Estimation via Ising Model**
+ [Abhinav Chakraborty](https://statistics.wharton.upenn.edu/profile/abch/), Anirban Chatterjee, [Abhinandan Dalal](https://statistics.wharton.upenn.edu/profile/abdalal/).         
+<sm>
+*Accepted for Publication at AISTATS 2024*
+</sm>
  
 <!-- Add a style tag with CSS to control the layout -->
 <style>
