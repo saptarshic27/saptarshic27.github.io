@@ -64,6 +64,8 @@ Anirban Chatterjee, [Rajat Subhra Hazra](https://sites.google.com/site/rshazra/)
 </sm>
 <sm>
 [<i class="ai ai-arxiv ai"></i> *arXiv:2011.07912*](https://arxiv.org/abs/2011.07912)
+[<i class="fab fa-github"></i> Github](https://github.com/anirbanc96/PrIsing)
+
 </sm>
  
 <!-- Add a style tag with CSS to control the layout -->
