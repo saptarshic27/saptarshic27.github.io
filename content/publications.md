@@ -63,7 +63,7 @@ Anirban Chatterjee, [Rajat Subhra Hazra](https://sites.google.com/site/rshazra/)
 *Accepted for Publication at AISTATS 2024*
 </sm>
 <sm>
-[<i class="ai ai-arxiv ai"></i> *arXiv:2011.07912*](https://arxiv.org/abs/2011.07912) &nbsp;
+[<i class="ai ai-arxiv ai"></i> *arXiv:2401.16596*](https://arxiv.org/abs/2401.16596) &nbsp;
 [<i class="fab fa-github"></i> Github](https://github.com/anirbanc96/PrIsing)
 
 </sm>
