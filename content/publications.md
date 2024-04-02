@@ -34,7 +34,7 @@ Anirban Chatterjee, [Jiaoyang Huang](https://jiaoyang.github.io/).
 
 # Journal Publications
 
-[**Fluctuations of subgraph counts in graphon based random graphs**](https://doi.org/10.1017/S0963548322000335)     
+[**Fluctuations of Subgraph Counts in Graphon based Random Graphs**](https://doi.org/10.1017/S0963548322000335)     
 [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html), Anirban Chatterjee, [Svante Janson](https://www.katalog.uu.se/profile/?id=XX2949).         
 <sm>
 *Combinatorics, Probability and Computing – Published May 2023*
