@@ -27,6 +27,12 @@ Anirban Chatterjee, [Sagnik Nandy](https://sagnik-nandy.github.io/), [Ritwik Sad
 *(Major Revision at Information and Inference: A journal of the IMA)*
 </sm>
 
+[**Higher-Order Graphon Theory: Fluctuations, Degeneracies, and Inference**](https://arxiv.org/abs/2404.13822)     
+Anirban Chatterjee, [Soham Dan](https://sdan2.github.io/), [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html).
+<sm>
+[<i class="ai ai-arxiv ai"></i> *arXiv:2404.13822*](https://arxiv.org/abs/2404.13822) 
+</sm>
+
 [**Fluctuation of the Largest Eigenvalue of a Kernel Matrix with application in Graphon-based Random Graphs**](https://arxiv.org/abs/2401.01866)     
 Anirban Chatterjee, [Jiaoyang Huang](https://jiaoyang.github.io/).
 <sm>
