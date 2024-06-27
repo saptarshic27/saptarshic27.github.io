@@ -17,10 +17,11 @@ Anirban Chatterjee, [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/
 *(Revision requested at Biometrika)*
 </sm>
 
-[**Clustering Network Vertices in Sparse Contextual Multilayer Networks**](https://arxiv.org/abs/2209.07554)     
+[**Detecting Planted Partition in Sparse Multi-Layer Networks**](https://arxiv.org/abs/2209.07554)     
 Anirban Chatterjee, [Sagnik Nandy](https://sagnik-nandy.github.io/), [Ritwik Sadhu](https://scholar.google.co.in/citations?user=6TI7KmgAAAAJ&hl=en).
 <sm>
 [<i class="ai ai-arxiv ai"></i> *arXiv:2209.07554*](https://arxiv.org/abs/2209.07554) 
+[<i class="fab fa-github"></i> Github](https://github.com/anirbanc96/Sparse-MCSBM)
 </sm>
 <sm>
 *(Major Revision at Information and Inference: A journal of the IMA)*
@@ -63,6 +64,7 @@ Anirban Chatterjee, [Rajat Subhra Hazra](https://sites.google.com/site/rshazra/)
 *International Conference on Artificial Intelligence and Statistics 2024*
 </sm>
 <sm>
+[<i class="fa-solid fa-book"></i> *PMLR*](https://proceedings.mlr.press/v238/chakraborty24a.html) &nbsp;
 [<i class="ai ai-arxiv ai"></i> *arXiv:2401.16596*](https://arxiv.org/abs/2401.16596) &nbsp;
 [<i class="fab fa-github"></i> Github](https://github.com/anirbanc96/PrIsing)
 
