@@ -44,7 +44,7 @@ Anirban Chatterjee, [Soham Dan](https://sdan2.github.io/), [Bhaswar B. Bhattacha
 [**Fluctuations of Subgraph Counts in Graphon based Random Graphs**](https://doi.org/10.1017/S0963548322000335)     
 [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html), Anirban Chatterjee, [Svante Janson](https://www.katalog.uu.se/profile/?id=XX2949).         
 <sm>
-*Combinatorics, Probability and Computing – Published May 2023*
+*Combinatorics, Probability and Computing*
 </sm>
 <sm>
 [<i class="fa-solid fa-book"></i> *CPC*](https://doi.org/10.1017/S0963548322000335) &nbsp;
@@ -54,7 +54,7 @@ Anirban Chatterjee, [Soham Dan](https://sdan2.github.io/), [Bhaswar B. Bhattacha
 [**Spectral properties for the Laplacian of a generalized Wigner matrix**](https://doi.org/10.1142/S2010326322500265)     
 Anirban Chatterjee, [Rajat Subhra Hazra](https://sites.google.com/site/rshazra/).         
 <sm>
-*Random Matrices: Theory and Applications – Published July 2022*
+*Random Matrices: Theory and Applications*
 </sm>
 <sm>
 [<i class="fa-solid fa-book"></i> *RMTA*](https://doi.org/10.1142/S2010326322500265) &nbsp;
