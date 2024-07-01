@@ -15,4 +15,6 @@ image:
   caption: 'Image credit: [**Unsplash**](https://blogs.mathworks.com/deep-learning/2021/12/02/synthetic-image-generation-using-gans/)'
   focal_point: ''
   preview_only: false
+tags:
+  - Deep Learning Theory
 ---
