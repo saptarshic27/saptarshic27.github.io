@@ -30,7 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: 
+  - block: collection
     content:
       title: '📚 My Research'
       subtitle: ''
@@ -40,9 +40,13 @@ sections:
         Prior to joing Berkeley, I explored different aspects of high-dimensional data clustering in Prof. Das's lab at the Indian Statistical Institute, Kolkata.
          
        # Please reach out to collaborate 😃
-    
+      filters:
+        folders:
+          - publication
+        featured_only: true
     design:
-      columns: '1'
+      view: article-grid
+      columns: 2
   - block: resume-awards
     id: awards
     content:
