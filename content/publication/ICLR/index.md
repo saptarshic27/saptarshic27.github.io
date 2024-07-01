@@ -13,4 +13,6 @@ url_code: "https://github.com/SaptarshiC98/WAE"
 publication_short: ICLR
 publication:  The 12-th International Conference on Learning Representations (ICLR'24)
 date: "2024-04-17"
+tags:
+  - Deep Learning Theory
 ---
