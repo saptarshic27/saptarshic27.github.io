@@ -24,7 +24,7 @@ Anirban Chatterjee, [Sagnik Nandy](https://sagnik-nandy.github.io/), [Ritwik Sad
 [<i class="fab fa-github"></i> Github](https://github.com/anirbanc96/Sparse-MCSBM)
 </sm>
 <sm>
-*(Major Revision at Information and Inference: A journal of the IMA)*
+*(Accepted at Information and Inference: A journal of the IMA)*
 </sm>
 
 [**Fluctuation of the Largest Eigenvalue of a Kernel Matrix with application in Graphon-based Random Graphs**](https://arxiv.org/abs/2401.01866)     
