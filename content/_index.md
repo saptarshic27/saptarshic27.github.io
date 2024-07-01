@@ -30,16 +30,13 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
+  - block: 
     content:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My current research lies in the intersection of Statistics and deep learning theory. In particular, I am interestd why deep learners work from a non-parametric statistical viewpoint. I have been studying the non-parametric convergence rates for different deep learners, especially GANs, WAEs etc., under the so-called manifold hypothesis. To learn more, please see our
-        button:
-          text: GAN paper
-          url: https://arxiv.org/abs/2401.15801
-
+        My current research lies in the intersection of Statistics and deep learning theory. In particular, I am interestd why deep learners work from a non-parametric statistical viewpoint. I have been studying the non-parametric convergence rates for different deep learners, especially GANs, WAEs etc., under the so-called manifold hypothesis. To learn more, please see our [GAN paper](https://arxiv.org/abs/2401.15801).
+    
         Prior to joing Berkeley, I explored different aspects of high-dimensional data clustering in Prof. Das's lab at the Indian Statistical Institute, Kolkata.
          
        # Please reach out to collaborate 😃
