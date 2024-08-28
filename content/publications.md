@@ -41,7 +41,7 @@ Anirban Chatterjee, [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/
 [**Detecting Planted Partition in Sparse Multi-Layer Networks**](https://academic.oup.com/imaiai/article/13/3/iaae019/7726402)     
 Anirban Chatterjee, [Sagnik Nandy](https://sagnik-nandy.github.io/), [Ritwik Sadhu](https://scholar.google.co.in/citations?user=6TI7KmgAAAAJ&hl=en).
 <sm>
-*Information and Inference: A Journal of the IMA
+*Information and Inference: A Journal of the IMA*
 <sm>
 <sm>
 [<i class="fa-solid fa-book"></i> *IMA*](https://academic.oup.com/imaiai/article/13/3/iaae019/7726402) &nbsp;
