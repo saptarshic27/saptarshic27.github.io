@@ -40,7 +40,7 @@ Anirban Chatterjee, [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/
 
 [**Detecting Planted Partition in Sparse Multi-Layer Networks**](https://academic.oup.com/imaiai/article/13/3/iaae019/7726402)     
 Anirban Chatterjee, [Sagnik Nandy](https://sagnik-nandy.github.io/), [Ritwik Sadhu](https://scholar.google.co.in/citations?user=6TI7KmgAAAAJ&hl=en).
-<br>
+<sm>
 *Information and Inference: A Journal of the IMA*
 </sm>
 <sm>
@@ -73,7 +73,7 @@ Anirban Chatterjee, [Rajat Subhra Hazra](https://sites.google.com/site/rshazra/)
 # Conference Publications
  
  [**PrIsing: Privacy-Preserving Peer Effect Estimation via Ising Model**](https://proceedings.mlr.press/v238/chakraborty24a.html)
- <br>
+ <sm>
  [Abhinav Chakraborty](https://statistics.wharton.upenn.edu/profile/abch/), Anirban Chatterjee, [Abhinandan Dalal](https://statistics.wharton.upenn.edu/profile/abdalal/).         
 <sm>
 *International Conference on Artificial Intelligence and Statistics 2024*
