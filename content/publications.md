@@ -7,7 +7,7 @@ slug: research
 
 # Preprints
 
-[**A Kernel-Based Conditional Two-Sample Test Using Nearest Neighbors**](https://arxiv.org/abs/2407.16550)     
+[**A Kernel-Based Conditional Two-Sample Test Using Nearest Neighbors (with Applications to Calibration, Regression Curves, and Simulation-Based Inference)**](https://arxiv.org/abs/2407.16550)     
 Anirban Chatterjee, [Ziang Niu](https://ziangniu6.github.io/), [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html).
 <sm>
 [<i class="ai ai-arxiv ai"></i> *arXiv:2407.16550*](https://arxiv.org/abs/2407.16550) &nbsp;
