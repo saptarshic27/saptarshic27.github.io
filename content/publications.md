@@ -42,7 +42,7 @@ Anirban Chatterjee, [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/
 Anirban Chatterjee, [Sagnik Nandy](https://sagnik-nandy.github.io/), [Ritwik Sadhu](https://scholar.google.co.in/citations?user=6TI7KmgAAAAJ&hl=en).
 <br>
 *Information and Inference: A Journal of the IMA*
-<sm>
+</sm>
 <sm>
 [<i class="fa-solid fa-book"></i> *IMA*](https://academic.oup.com/imaiai/article/13/3/iaae019/7726402) &nbsp;
 [<i class="ai ai-arxiv ai"></i> *arXiv:2209.07554*](https://arxiv.org/abs/2209.07554)  &nbsp;
