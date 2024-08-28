@@ -10,7 +10,7 @@ slug: research
 [**A Kernel-Based Conditional Two-Sample Test Using Nearest Neighbors**](https://arxiv.org/abs/2407.16550)     
 Anirban Chatterjee, [Ziang Niu](https://ziangniu6.github.io/), [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html).
 <sm>
-[<i class="ai ai-arxiv ai"></i> *arXiv:2407.16550*](https://arxiv.org/abs/2407.16550)
+[<i class="ai ai-arxiv ai"></i> *arXiv:2407.16550*](https://arxiv.org/abs/2407.16550) &nbsp;
 [<i class="fab fa-github"></i> Github](https://github.com/anirbanc96/ECMMD-CondTwoSamp)
 </sm>
 
@@ -36,17 +36,19 @@ Anirban Chatterjee, [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/
 *(Revision requested at Biometrika)*
 </sm>
 
-[**Detecting Planted Partition in Sparse Multi-Layer Networks**](https://arxiv.org/abs/2209.07554)     
+# Journal Publications
+
+[**Detecting Planted Partition in Sparse Multi-Layer Networks**](https://academic.oup.com/imaiai/article/13/3/iaae019/7726402)     
 Anirban Chatterjee, [Sagnik Nandy](https://sagnik-nandy.github.io/), [Ritwik Sadhu](https://scholar.google.co.in/citations?user=6TI7KmgAAAAJ&hl=en).
 <sm>
+*Information and Inference: A Journal of the IMA
+<sm>
+<sm>
+[<i class="fa-solid fa-book"></i> *IMA*](https://academic.oup.com/imaiai/article/13/3/iaae019/7726402) &nbsp;
 [<i class="ai ai-arxiv ai"></i> *arXiv:2209.07554*](https://arxiv.org/abs/2209.07554)  &nbsp;
 [<i class="fab fa-github"></i> Github](https://github.com/anirbanc96/Sparse-MCSBM)
 </sm>
-<sm>
-*(Accepted at Information and Inference: A journal of the IMA)*
-</sm>
 
-# Journal Publications
 
 [**Fluctuations of Subgraph Counts in Graphon based Random Graphs**](https://doi.org/10.1017/S0963548322000335)     
 [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html), Anirban Chatterjee, [Svante Janson](https://www.katalog.uu.se/profile/?id=XX2949).         
