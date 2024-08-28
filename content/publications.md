@@ -7,6 +7,12 @@ slug: research
 
 # Preprints
 
+[**A Kernel-Based Conditional Two-Sample Test Using Nearest Neighbors**](https://arxiv.org/abs/2407.16550)     
+Anirban Chatterjee, [Ziang Niu](https://ziangniu6.github.io/), [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html).
+<sm>
+[<i class="ai ai-arxiv ai"></i> *arXiv:2407.16550*](https://arxiv.org/abs/2407.16550) 
+</sm>
+
 [**Higher-Order Graphon Theory: Fluctuations, Degeneracies, and Inference**](https://arxiv.org/abs/2404.13822)     
 Anirban Chatterjee, [Soham Dan](https://sdan2.github.io/), [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html).
 <sm>
