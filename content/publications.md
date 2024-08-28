@@ -38,16 +38,17 @@ Anirban Chatterjee, [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/
 
 # Journal Publications
 
-[**Detecting Planted Partition in Sparse Multi-Layer Networks**](https://academic.oup.com/imaiai/article/13/3/iaae019/7726402)     
-Anirban Chatterjee, [Sagnik Nandy](https://sagnik-nandy.github.io/), [Ritwik Sadhu](https://scholar.google.co.in/citations?user=6TI7KmgAAAAJ&hl=en).
+[**PrIsing: Privacy-Preserving Peer Effect Estimation via Ising Model**](https://proceedings.mlr.press/v238/chakraborty24a.html)
+ <br>
+ [Abhinav Chakraborty](https://statistics.wharton.upenn.edu/profile/abch/), Anirban Chatterjee, [Abhinandan Dalal](https://statistics.wharton.upenn.edu/profile/abdalal/).         
 <sm>
-*Information and Inference: A Journal of the IMA*
-<sm>
-<sm>
-[<i class="fa-solid fa-book"></i> *IMA*](https://academic.oup.com/imaiai/article/13/3/iaae019/7726402) &nbsp;
-[<i class="ai ai-arxiv ai"></i> *arXiv:2209.07554*](https://arxiv.org/abs/2209.07554)  &nbsp;
-[<i class="fab fa-github"></i> Github](https://github.com/anirbanc96/Sparse-MCSBM)
+*International Conference on Artificial Intelligence and Statistics 2024*
 </sm>
+<sm>
+[<i class="fa-solid fa-book"></i> *PMLR*](https://proceedings.mlr.press/v238/chakraborty24a.html) &nbsp;
+[<i class="ai ai-arxiv ai"></i> *arXiv:2401.16596*](https://arxiv.org/abs/2401.16596) &nbsp;
+[<i class="fab fa-github"></i> Github](https://github.com/anirbanc96/PrIsing)
+<sm>
 
 
 [**Fluctuations of Subgraph Counts in Graphon based Random Graphs**](https://doi.org/10.1017/S0963548322000335)     
