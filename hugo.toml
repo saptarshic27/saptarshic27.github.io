@@ -13,7 +13,7 @@ enableRobotsTXT = true
 [[menu.main]]
     name = "Home"
     url  = "/"
-    weight = 2
+    weight = 1
 [[menu.main]]
     name = "About me"
     url  = "/about"
@@ -21,7 +21,7 @@ enableRobotsTXT = true
 [[menu.main]]
     name = "Research"
     url  = "/research"
-    weight = 2
+    weight = 3
 #[[menu.main]]
 #    name = "CV"
 #    url  = "/cv.pdf"
@@ -29,7 +29,7 @@ enableRobotsTXT = true
 [[menu.main]]
     name = "Teaching"
     url  = "/teaching"
-    weight = 2
+    weight = 4
 
 [sitemap]
   changefreq = 'daily'
