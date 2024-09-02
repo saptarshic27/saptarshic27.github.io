@@ -5,7 +5,7 @@ math: true
 hide_title: true
 ---
 
-  Email: <span style="color: navy;">saptarshic@berkeley.edu</span>.
+  Email: <span style="color: navy;">saptarshic@berkeley.edu</span>.\
   Office address: 393 Evans Hall, University Drive, Berkeley, CA, 94720.
 
   
