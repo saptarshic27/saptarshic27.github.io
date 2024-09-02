@@ -29,6 +29,7 @@ S. Chakraborty and P. Bartlett.
 
 (2020) [**Entropy Weighted Power k-Means Clustering**](https://proceedings.mlr.press/v108/chakraborty20a.html). S. Chakraborty, D. Paul, S. Das and J. Xu.  International Conference on Artificial Intelligence and Statistics (AISTATS). [<i class="fa-solid fa-book"></i> Paper](https://proceedings.mlr.press/v108/chakraborty20a.html) &nbsp; [<i class="ai ai-arxiv ai"></i> arXiv](https://arxiv.org/pdf/2001.03452).
 
+(2020) [**Hierarchical Clustering with Optimal Transport Statistics and Probability Letters**](https://www.sciencedirect.com/science/article/abs/pii/S0167715220300845). D. Paul , S. Chakraborty and S. Das.  Statistics and Probability Letters. [<i class="fa-solid fa-book"></i> Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167715220300845).
 
  
 <!-- Add a style tag with CSS to control the layout -->
