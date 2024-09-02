@@ -7,7 +7,7 @@ hide_title: true
 
   I'm Saptarshi, a Ph.D. candidate in [Statistics at UC Berkeley](https://statistics.berkeley.edu/), advised by [Prof. Peter Bartlett](https://www.stat.berkeley.edu/~bartlett/). Before joining here, I completed both my Bachelor of Statistics and Master of Statistics at the [Indian Statistical Institute, Kolkata](https://www.isical.ac.in/).
   
- Equipped with a strong mathematical foundation I'm interested to explore the depths of statistical statistical learning, especially deep learning and its real-world applications. My current research is primarily focused on exploring and understanding why deep learners work from a statistical viewpoint. 
+ Equipped with a strong mathematical foundation I'm interested to explore the depths of statistical statistical learning, especially deep learning and its real-world applications. My current research is primarily focused on exploring and understanding why deep learners work from a statistical viewpoint. My doctoral research explores the behavior of different deep learners, especially, generative models under the so-called "manifold hypothesis". 
  
 In my free time I enjoy hiking, reading novels and cooking exotic dishes. 
 
