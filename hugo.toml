@@ -1,12 +1,12 @@
 
 # Global options
-baseURL = "http://anirbanchatterjee.com/"
+baseURL = "http://saptarshic.com/"
 canonifyURLs = true
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 languageCode = "en"
 theme = "barks"
-title = "Anirban Chatterjee"
+title = "Saptarshi Chakraborty"
 enableRobotsTXT = true
 
 # Main menu
@@ -18,10 +18,10 @@ enableRobotsTXT = true
     name = "Research"
     url  = "/research"
     weight = 2
-[[menu.main]]
-    name = "CV"
-    url  = "/cv.pdf"
-    weight = 3
+#[[menu.main]]
+#    name = "CV"
+#    url  = "/cv.pdf"
+#    weight = 3
 [[menu.main]]
     name = "Teaching"
     url  = "/teaching"
@@ -36,10 +36,10 @@ enableRobotsTXT = true
 [params]
 
     [params.head]
-        author = "Anirban Chatterjee"
+        author = "Saptarshi Chakraborty"
         custom_css = "/custom.css"
-        description = "Hi, I'm Anirban"
-        keywords = ["materials science", "academic", "CEA", "PhD"]
+        description = "Hi, I'm Saptarshi"
+        keywords = ["Statistics", "Computer Science", "academic", "PhD", "Berkeley", "ISI"]
 
     [params.navigation]
         show_navigation = true
@@ -62,28 +62,28 @@ enableRobotsTXT = true
         [params.social.email]
             name = "E-Mail"
             class = "fas fa-envelope"
-            url = "mailto:anirbanc@wharton.upenn.edu"
+            url = "mailto:saptarshic@berkeley.edu"
             weight = 1
-        [params.social.github]
-            name = "GitHub"
-            class = "fab fa-github"
-            url = "https://github.com/anirbanc96"
-            weight = 2
+        #[params.social.github]
+        #    name = "GitHub"
+        #    class = "fab fa-github"
+        #    url = "https://github.com/anirbanc96"
+        #    weight = 2
         [params.social.google_scholar]
             name = "Google Scholar"
             class = "ai ai-google-scholar"
-            url = "https://scholar.google.co.in/citations?user=dBN655QAAAAJ&hl=en"
+            url = "https://scholar.google.com/citations?user=BAH6owQAAAAJ&hl=en"
             weight = 3
         #[params.social.institution]
         #    name = "My institution"
         #    class = "fas fa-university"
         #    url = ""
         #    weight = 5
-        [params.social.linkedin]
-            name = "LinkedIn"
-            class = "fab fa-linkedin"
-            url = "https://www.linkedin.com/in/anirban-chatterjee-99742611b/"
-            weight = 6
+        #[params.social.linkedin]
+        #    name = "LinkedIn"
+        #    class = "fab fa-linkedin"
+        #    url = "https://www.linkedin.com/in/anirban-chatterjee-99742611b/"
+        #    weight = 6
         #[params.social.orcid]
         #    name = "ORCID iD"
         #    class = "fab fa-orcid"
