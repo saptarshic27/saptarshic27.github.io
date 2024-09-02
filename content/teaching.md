@@ -6,11 +6,14 @@ hide_title: true
 # Teaching Assistant
 I was a Graduate Student Instructor (GSI) for the following courses at UC Berkeley.
 
-**STAT 154/254**: Modern Statistical Prediction and Machine Learning - *Spring, 2023* 
+**STAT 154/254**: Modern Statistical Prediction and Machine Learning - *Spring (January - May), 2023*.
 <br>
-[**STAT 961** - *Fall 2022* - University of Pennsylvania](https://katsevich-teaching.github.io/stat-9610-fall-2022/)
+**STAT 134**: Concepts of Probability - *Spring (January - May), 2022*.
 <br>
-[**STAT 432** - *Spring 2022* - University of Pennsylvania](https://apps.wharton.upenn.edu/syllabi/2022A/STAT432001/)
+**STAT 201A**: Introduction to Probability at an Advanced Level - *Fall (August-December), 2021*.
+<br>
+**STAT 134**: Concepts of Probability - *Summer (June-August), 2021*.
+
 
 
 
