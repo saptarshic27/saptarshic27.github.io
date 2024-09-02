@@ -6,13 +6,13 @@ hide_title: true
 # Teaching Assistant
 I was a Graduate Student Instructor (GSI) for the following courses at UC Berkeley.
 
-**STAT 154/254**: [Modern Statistical Prediction and Machine Learning](https://classes.berkeley.edu/content/2023-spring-stat-154-001-lec-001) - *Spring semester, 2023*.
+[**STAT 154/254**: Modern Statistical Prediction and Machine Learning](https://classes.berkeley.edu/content/2023-spring-stat-154-001-lec-001) - *Spring semester, 2023*.
 <br>
-**STAT 134**: [Concepts of Probability](https://classes.berkeley.edu/content/2022-spring-stat-134-001-lec-001) - *Spring semester, 2022*.
+[**STAT 134**: Concepts of Probability](https://classes.berkeley.edu/content/2022-spring-stat-134-001-lec-001) - *Spring semester, 2022*.
 <br>
-**STAT 201A**: [Introduction to Probability at an Advanced Level](https://classes.berkeley.edu/content/2021-fall-stat-201a-001-lec-001) - *Fall semester, 2021*.
+[**STAT 201A**: Introduction to Probability at an Advanced Level](https://classes.berkeley.edu/content/2021-fall-stat-201a-001-lec-001) - *Fall semester, 2021*.
 <br>
-**STAT 134**: [Concepts of Probability](https://classes.berkeley.edu/content/2021-summer-stat-134-001-lec-001) - *Summer, 2021*.
+[**STAT 134**: Concepts of Probability](https://classes.berkeley.edu/content/2021-summer-stat-134-001-lec-001) - *Summer, 2021*.
 
 
 
