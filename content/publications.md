@@ -35,6 +35,7 @@ S. Chakraborty and P. Bartlett.
 
 (2019) [**On the non-convergence of differential evolution: some generalized adversarial conditions and a remedy**](https://dl.acm.org/doi/10.1145/3319619.3322007). D. Paul, S. Chakraborty, S. Das and I. Zelinka.  Genetic and Evolutionary Computation Conference Companion (GECCO). [<i class="fa-solid fa-book"></i> Paper](https://dl.acm.org/doi/10.1145/3319619.3322007).
 
+(2018) [**Simultaneous variable weighting and determining the number of clusters—A weighted Gaussian means algorithm**](https://www.sciencedirect.com/science/article/abs/pii/S016771521830018X?via%3Dihub). S. Chakraborty and S. Das. International Conference on Learning Representations (ICLR). [<i class="fa-solid fa-book"></i> Paper](https://www.sciencedirect.com/science/article/abs/pii/S016771521830018X?via%3Dihub) &nbsp; [<i class="fab fa-github"></i> Github](https://github.com/SaptarshiC98/-WG--means).
  
 <!-- Add a style tag with CSS to control the layout -->
 <style>
