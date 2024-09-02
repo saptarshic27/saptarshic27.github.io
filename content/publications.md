@@ -7,8 +7,12 @@ slug: research
 
 # Publications & Preprints 
 
-(2024) [**On the Statistical Properties of Generative Adversarial Models for Low Intrinsic Data Dimension**](https://arxiv.org/abs/2401.15801). S. Chakraborty and P. Bartlett. 
-[<i class="fa-solid fa-book"></i> *arXiv*]
+(2024) [**On the Statistical Properties of Generative Adversarial Models for Low Intrinsic Data Dimension**](https://arxiv.org/abs/2401.15801).
+<sm>
+S. Chakraborty and P. Bartlett.
+<sm>
+[<i class="ai ai-arxiv ai"></i> *arXiv*](https://arxiv.org/abs/2401.15801)
+</sm>
 
 
 [**A Kernel-Based Conditional Two-Sample Test Using Nearest Neighbors (with Applications to Calibration, Regression Curves, and Simulation-Based Inference)**](https://arxiv.org/abs/2407.16550)     
