@@ -33,6 +33,8 @@ S. Chakraborty and P. Bartlett.
 
 (2019) [**On the strong consistency of feature-weighted k-means clustering in a nearmetric space**](https://onlinelibrary.wiley.com/doi/10.1002/sta4.227). S. Chakraborty and S. Das.  Stat. [<i class="fa-solid fa-book"></i> Paper](https://onlinelibrary.wiley.com/doi/10.1002/sta4.227).
 
+(2019) [**On the non-convergence of differential evolution: some generalized adversarial conditions and a remedy**](https://dl.acm.org/doi/10.1145/3319619.3322007). D. Paul, S. Chakraborty, S. Das and I. Zelinka.  Genetic and Evolutionary Computation Conference Companion (GECCO). [<i class="fa-solid fa-book"></i> Paper](https://dl.acm.org/doi/10.1145/3319619.3322007).
+
  
 <!-- Add a style tag with CSS to control the layout -->
 <style>
