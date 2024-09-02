@@ -11,6 +11,14 @@ hide_title: true
  
 In my free time I enjoy hiking, reading novels and cooking exotic dishes. 
 
+# Education
+2020 - Present PhD. in Statistics, Department of Statistics, University of California, Berkeley.
+Advisor: Peter Bartlett
+<br>
+2018-2020 Master of Statistics (M.Stat), first division with distinction, Indian Statistical Institute, Kolkata, India  
+Specialization: Computational Statistics and Applied Statistics. 
+<br>
+2015-2018 Bachelor of Statistics (B.Stat, Hons.), first division with distinction,  Indian Statistical Institute, Kolkata, India.
 
   <!-- Add a style tag with CSS to control the layout -->
 <style>
