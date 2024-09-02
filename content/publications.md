@@ -9,9 +9,11 @@ slug: research
 
 (2024) [**On the Statistical Properties of Generative Adversarial Models for Low Intrinsic Data Dimension**](https://arxiv.org/abs/2401.15801).
 S. Chakraborty and P. Bartlett.
-[<i class="ai ai-arxiv ai"></i> *arXiv*](https://arxiv.org/abs/2401.15801)
+[<i class="ai ai-arxiv ai"></i> arXiv](https://arxiv.org/abs/2401.15801)
 
-(2024) [**A Statistical Analysis of Wasserstein Autoencoders for Intrinsically Low-dimensional Data**](https://openreview.net/pdf?id=WjRPZsfeBO). S. Chakraborty and P. Bartlett. International Conference on Learning Representations (ICLR). [<i class="fa-solid fa-book"></i> *Paper*](https://openreview.net/pdf?id=WjRPZsfeBO)  [<i class="fab fa-github"></i> Github](https://github.com/SaptarshiC98/WAE).
+(2024) [**A Statistical Analysis of Wasserstein Autoencoders for Intrinsically Low-dimensional Data**](https://openreview.net/pdf?id=WjRPZsfeBO). S. Chakraborty and P. Bartlett. International Conference on Learning Representations (ICLR). [<i class="fa-solid fa-book"></i> Paper](https://openreview.net/pdf?id=WjRPZsfeBO) &nbsp; [<i class="fab fa-github"></i> Github](https://github.com/SaptarshiC98/WAE).
+
+(2023) [**A Statistical Analysis of Wasserstein Autoencoders for Intrinsically Low-dimensional Data**](https://openreview.net/pdf?id=WjRPZsfeBO). S. Chakraborty and P. Bartlett. International Conference on Learning Representations (ICLR). [<i class="fa-solid fa-book"></i> *Paper*](https://openreview.net/pdf?id=WjRPZsfeBO)  [<i class="fab fa-github"></i> Github](https://github.com/SaptarshiC98/WAE).
 
 [**A Kernel-Based Conditional Two-Sample Test Using Nearest Neighbors (with Applications to Calibration, Regression Curves, and Simulation-Based Inference)**](https://arxiv.org/abs/2407.16550)     
 Anirban Chatterjee, [Ziang Niu](https://ziangniu6.github.io/), [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html).
