@@ -11,7 +11,7 @@ hide_title: true
  
 In my free time I enjoy hiking, reading novels and cooking exotic dishes. 
 
-``# Education
+# Education
 (2020 - Present) [**University of California, Berkeley**](https://statistics.berkeley.edu/)\
 &nbsp;&nbsp;&nbsp;&nbsp; Ph.D. in Statistics\
 Advisor: Peter Bartlett
