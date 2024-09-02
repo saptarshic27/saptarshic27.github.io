@@ -8,11 +8,11 @@ I was a Graduate Student Instructor (GSI) for the following courses at UC Berkel
 
 **STAT 154/254**: Modern Statistical Prediction and Machine Learning - *Spring (January - May), 2023*.
 <br>
-**STAT 134**: Concepts of Probability - *Spring (January - May), 2022*.
+**STAT 134**: [Concepts of Probability](https://classes.berkeley.edu/content/2022-spring-stat-134-001-lec-001) - *Spring (January - May), 2022*.
 <br>
-**STAT 201A**: Introduction to Probability at an Advanced Level - *Fall (August-December), 2021*.
+**STAT 201A**: [Introduction to Probability at an Advanced Level](https://classes.berkeley.edu/content/2021-fall-stat-201a-001-lec-001) - *Fall (August-December), 2021*.
 <br>
-**STAT 134**: Concepts of Probability - *Summer (June-August), 2021*.
+**STAT 134**: [Concepts of Probability](https://classes.berkeley.edu/content/2021-summer-stat-134-001-lec-001) - *Summer (June-August), 2021*.
 
 
 
