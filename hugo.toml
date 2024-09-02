@@ -30,6 +30,10 @@ enableRobotsTXT = true
     name = "Teaching"
     url  = "/teaching"
     weight = 4
+[[menu.main]]
+    name = "Contact"
+    url  = "/contact"
+    weight = 5    
 
 [sitemap]
   changefreq = 'daily'
