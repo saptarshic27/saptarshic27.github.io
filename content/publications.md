@@ -26,6 +26,10 @@ S. Chakraborty and P. Bartlett.
 (2021) [**On the Uniform Concentration Bounds and Large Sample Properties of Clustering with Bregman Divergences**](https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.360). D. Paul , S. Chakraborty and S. Das.  Stat. [<i class="fa-solid fa-book"></i> Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.360).
 
 (2021) [**Detecting Meaningful Clusters from High-dimensional Data: A Strongly Consistent Sparse Center-based Clustering Approach**](https://ojs.aaai.org/index.php/AAAI/article/view/16854). S. Chakraborty and S. Das.  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). [<i class="fa-solid fa-book"></i> Paper](https://www.computer.org/csdl/journal/tp/2022/06/09309172/1pQEdzozLwY) &nbsp; [<i class="fab fa-github"></i> Github](https://github.com/SaptarshiC98/lwk-means).
+
+(2020) [**Entropy Weighted Power k-Means Clustering**](https://proceedings.mlr.press/v108/chakraborty20a.html). S. Chakraborty, D. Paul, S. Das and J. Xu.  International Conference on Artificial Intelligence and Statistics (AISTATS). [<i class="fa-solid fa-book"></i> Paper](https://proceedings.mlr.press/v108/chakraborty20a.html) &nbsp; [<i class="ai ai-arxiv ai"></i> arXiv](https://arxiv.org/pdf/2001.03452).
+
+
  
 <!-- Add a style tag with CSS to control the layout -->
 <style>
