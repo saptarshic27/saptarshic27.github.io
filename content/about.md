@@ -14,14 +14,14 @@ In my free time I enjoy hiking, reading novels and cooking exotic dishes.
 # Education
 (2020 - Present) [**University of California, Berkeley**](https://statistics.berkeley.edu/)\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ph.D. in Statistics\
-Advisor: Peter Bartlett
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisor: Peter Bartlett
 <br>
 (2018-2020) [**Indian Statistical Institute, Kolkata, India**](https://www.isical.ac.in/).\
-Master of Statistics (M.Stat), *first division with distinction*\
-Specialization: Computational Statistics and Applied Statistics. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Master of Statistics (M.Stat), *first division with distinction*\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Specialization: Computational Statistics and Applied Statistics. 
 <br>
 (2015-2018) [**Indian Statistical Institute, Kolkata, India**](https://www.isical.ac.in/).\
-Bachelor of Statistics, Honours (B.Stat, Hons.), *first division with distinction*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bachelor of Statistics, Honours (B.Stat, Hons.), *first division with distinction*
 
   <!-- Add a style tag with CSS to control the layout -->
 <style>
