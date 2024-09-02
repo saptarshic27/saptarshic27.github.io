@@ -24,6 +24,8 @@ S. Chakraborty and P. Bartlett.
 (2021) [**Automated Clustering of High-dimensional Data with a Feature Weighted Mean-shift Algorithm**](https://ojs.aaai.org/index.php/AAAI/article/view/16854). S. Chakraborty, D. Paul and S. Das.  AAAI Conference on Artificial Intelligence (AAAI). [<i class="fa-solid fa-book"></i> Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16854) &nbsp; [<i class="ai ai-arxiv ai"></i> arXiv](https://arxiv.org/pdf/2012.10929) &nbsp; [<i class="fab fa-github"></i> Github](https://github.com/SaptarshiC98/WBMSC).
 
 (2021) [**On the Uniform Concentration Bounds and Large Sample Properties of Clustering with Bregman Divergences**](https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.360). D. Paul , S. Chakraborty and S. Das.  Stat. [<i class="fa-solid fa-book"></i> Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.360).
+
+(2021) [**Detecting Meaningful Clusters from High-dimensional Data: A Strongly Consistent Sparse Center-based Clustering Approach**](https://ojs.aaai.org/index.php/AAAI/article/view/16854). S. Chakraborty and S. Das.  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). [<i class="fa-solid fa-book"></i> Paper](https://www.computer.org/csdl/journal/tp/2022/06/09309172/1pQEdzozLwY) &nbsp; [<i class="fab fa-github"></i> Github](https://github.com/SaptarshiC98/lwk-means).
  
 <!-- Add a style tag with CSS to control the layout -->
 <style>
