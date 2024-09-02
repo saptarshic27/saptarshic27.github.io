@@ -5,7 +5,11 @@ slug: research
 ---
 
 
-# Preprints
+# Publications & Preprints 
+
+(2024) [**On the Statistical Properties of Generative Adversarial Models for Low Intrinsic Data Dimension**](https://arxiv.org/abs/2401.15801). S. Chakraborty and P. Bartlett. 
+[<i class="fa-solid fa-book"></i> *arXiv*]
+
 
 [**A Kernel-Based Conditional Two-Sample Test Using Nearest Neighbors (with Applications to Calibration, Regression Curves, and Simulation-Based Inference)**](https://arxiv.org/abs/2407.16550)     
 Anirban Chatterjee, [Ziang Niu](https://ziangniu6.github.io/), [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html).
