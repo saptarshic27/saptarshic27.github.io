@@ -4,7 +4,8 @@ hide_title: true
 ---
 
 # Teaching Assistant
-I was a Graduate Student Instructor (GSI) for the following courses at UC Berkeley. 
+I was a Graduate Student Instructor (GSI) for the following courses at UC Berkeley.
+
 **STAT 154/254**: Modern Statistical Prediction and Machine Learning - *Spring, 2023* 
 <br>
 [**STAT 961** - *Fall 2022* - University of Pennsylvania](https://katsevich-teaching.github.io/stat-9610-fall-2022/)
