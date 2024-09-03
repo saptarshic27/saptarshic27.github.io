@@ -3,8 +3,8 @@ title: Publications
 hide_title: true
 slug: research
 ---
-
-
+# Working Papers
+(2024) Statistical Guarantees for Unpaired Image-to-Image Cross-Domain Analysis using GANs. S. Chakraborty and P. Bartlett. Submitted to NeurIPS.
 # Publications & Preprints 
 
 (2024) [**On the Statistical Properties of Generative Adversarial Models for Low Intrinsic Data Dimension**](https://arxiv.org/abs/2401.15801).
