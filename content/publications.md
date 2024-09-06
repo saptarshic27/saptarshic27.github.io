@@ -11,7 +11,7 @@ slug: research
 S. Chakraborty and P. Bartlett.
 [<i class="ai ai-arxiv ai"></i> arXiv](https://arxiv.org/abs/2401.15801)
 
-(2024) [**A Statistical Analysis of Wasserstein Autoencoders for Intrinsically Low-dimensional Data**](https://openreview.net/pdf?id=WjRPZsfeBO). S. Chakraborty and P. Bartlett. International Conference on Learning Representations (ICLR). [<i class="fa-solid fa-book"></i> Paper](https://openreview.net/pdf?id=WjRPZsfeBO) &nbsp; [<i class="fab fa-github"></i> Github](https://github.com/SaptarshiC98/WAE).
+(2024) [**A Statistical Analysis of Wasserstein Autoencoders for Intrinsically Low-dimensional Data**](https://openreview.net/pdf?id=WjRPZsfeBO). S. Chakraborty and P. Bartlett. International Conference on Learning Representations (ICLR). [<i class="fa-solid fa-book"></i> Paper](https://openreview.net/pdf?id=WjRPZsfeBO) &nbsp; [<i class="ai ai-arxiv ai"></i> arXiv](https://arxiv.org/pdf/2402.15710) &nbsp; [<i class="fab fa-github"></i> Github](https://github.com/SaptarshiC98/WAE).
 
 (2023) [**Biconvex Clustering**](https://www.tandfonline.com/doi/abs/10.1080/10618600.2023.2197474?journalCode=ucgs20). S. Chakraborty and J. Xu. Journal of Computational and Graphical Statistics. [<i class="fa-solid fa-book"></i> Paper](https://www.tandfonline.com/doi/abs/10.1080/10618600.2023.2197474?journalCode=ucgs20) &nbsp; [<i class="ai ai-arxiv ai"></i> arXiv](https://arxiv.org/pdf/2008.01760) &nbsp; [<i class="fab fa-github"></i> Github](https://github.com/SaptarshiC98/BCC).
 
