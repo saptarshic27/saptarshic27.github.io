@@ -15,6 +15,8 @@ S. Chakraborty and P. Bartlett.
 
 (2023) [**Biconvex Clustering**](https://www.tandfonline.com/doi/abs/10.1080/10618600.2023.2197474?journalCode=ucgs20). S. Chakraborty and J. Xu. Journal of Computational and Graphical Statistics. [<i class="fa-solid fa-book"></i> Paper](https://www.tandfonline.com/doi/abs/10.1080/10618600.2023.2197474?journalCode=ucgs20) &nbsp; [<i class="ai ai-arxiv ai"></i> arXiv](https://arxiv.org/pdf/2008.01760) &nbsp; [<i class="fab fa-github"></i> Github](https://github.com/SaptarshiC98/BCC).
 
+(2023) [**Robust Principal Component Analysis: A Median of Means Approach**](https://ieeexplore.ieee.org/document/10210330). D. Paul, S. Chakraborty and S. Das. IEEE Transactions on Neural Networks and Learning Systems. [<i class="fa-solid fa-book"></i> Paper](https://ieeexplore.ieee.org/document/10210330)
+
 (2023) [**Clustering High-dimensional Data with Ordered Weighted L1 Regularization**](https://proceedings.mlr.press/v206/chakraborty23a.html). C. Chakraborty, S. Paul, S. Chakraborty, and S. Das. International Conference on Artificial Intelligence and Statistics (AISTATS). [<i class="fa-solid fa-book"></i> Paper](https://proceedings.mlr.press/v206/chakraborty23a.html) &nbsp; [<i class="fab fa-github"></i> Github](https://github.com/sayanpaul123/OWL_K_Means/).
 
 (2022) [**Bregman Power k-Means for Clustering Exponential Family Data**](https://proceedings.mlr.press/v162/vellal22a.html). A. Vellal, S. Chakraborty, and J. Xu. International Conference on Machine Learning (ICML). [<i class="fa-solid fa-book"></i> Paper](https://proceedings.mlr.press/v162/vellal22a.html) &nbsp; [<i class="fab fa-github"></i> Github](https://github.com/avellal14/bregman_power_kmeans).
