@@ -19,10 +19,11 @@ S. Chakraborty and P. Bartlett.
 
 (2023) [**Clustering High-dimensional Data with Ordered Weighted L1 Regularization**](https://proceedings.mlr.press/v206/chakraborty23a.html). C. Chakraborty, S. Paul, S. Chakraborty, and S. Das. International Conference on Artificial Intelligence and Statistics (AISTATS). [<i class="fa-solid fa-book"></i> Paper](https://proceedings.mlr.press/v206/chakraborty23a.html) &nbsp; [<i class="fab fa-github"></i> Github](https://github.com/sayanpaul123/OWL_K_Means/).
 
-(2022) [**Bregman Power k-Means for Clustering Exponential Family Data**](https://proceedings.mlr.press/v162/vellal22a.html). A. Vellal, S. Chakraborty, and J. Xu. International Conference on Machine Learning (ICML). [<i class="fa-solid fa-book"></i> Paper](https://proceedings.mlr.press/v162/vellal22a.html) &nbsp; [<i class="fab fa-github"></i> Github](https://github.com/avellal14/bregman_power_kmeans).
+(2022) [**Bregman Power k-Means for Clustering Exponential Family Data**](https://proceedings.mlr.press/v162/vellal22a.html). A. Vellal, S. Chakraborty and J. Xu. International Conference on Machine Learning (ICML). [<i class="fa-solid fa-book"></i> Paper](https://proceedings.mlr.press/v162/vellal22a.html) &nbsp; [<i class="fab fa-github"></i> Github](https://github.com/avellal14/bregman_power_kmeans).
 
-(2022) [**Implicit Annealing in Kernel Spaces: A Strongly Consistent Clustering Approach**](https://ieeexplore.ieee.org/document/9928792). D. Paul, S. Chakraborty, S. Das, and J. Xu. IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI). [<i class="fa-solid fa-book"></i> Paper](https://ieeexplore.ieee.org/document/9928792)
+(2022) [**Implicit Annealing in Kernel Spaces: A Strongly Consistent Clustering Approach**](https://ieeexplore.ieee.org/document/9928792). D. Paul, S. Chakraborty, S. Das and J. Xu. IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI). [<i class="fa-solid fa-book"></i> Paper](https://ieeexplore.ieee.org/document/9928792)
 
+(2022) [**A Consistent Entropy-Regularized Weighted k-Means Clustering Algorithm**](https://ieeexplore.ieee.org/document/9781349). D. Paul, S. Chakraborty, and S. Das. IEEE Transactions on Cybernetics. [<i class="fa-solid fa-book"></i> Paper](https://ieeexplore.ieee.org/document/9781349)
 
 (2021) [**On Uniform Concentration Bounds for Bi-clustering by using the Vapnik-Chervonenkis Theory**](https://www.sciencedirect.com/science/article/abs/pii/S016771522100064X). S. Chakraborty, and S. Das. Statistics and Probability Letters. [<i class="fa-solid fa-book"></i> Paper](https://www.sciencedirect.com/science/article/abs/pii/S016771522100064X)
 
