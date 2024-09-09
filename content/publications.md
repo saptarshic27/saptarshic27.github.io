@@ -25,7 +25,7 @@ S. Chakraborty and P. Bartlett.
 
 (2022) [**A Consistent Entropy-Regularized Weighted k-Means Clustering Algorithm**](https://ieeexplore.ieee.org/document/9781349). D. Paul, S. Chakraborty, and S. Das. IEEE Transactions on Cybernetics. [<i class="fa-solid fa-book"></i> Paper](https://ieeexplore.ieee.org/document/9781349)
 
-(2022) [**Uniform Concentration Bounds toward a Unified  Framework for Robust Clustering**](https://proceedings.neurips.cc/paper/2021/hash/460b491b917d4185ed1f5be97229721a-Abstract.html). D. Paul, S. Chakraborty, S. Das and J. Xu. Neural Information Processing Systems (NeurIPS). [<i class="fa-solid fa-book"></i> Paper](https://proceedings.neurips.cc/paper/2021/hash/460b491b917d4185ed1f5be97229721a-Abstract.html)
+(2021) [**Uniform Concentration Bounds toward a Unified  Framework for Robust Clustering**](https://proceedings.neurips.cc/paper/2021/hash/460b491b917d4185ed1f5be97229721a-Abstract.html). D. Paul, S. Chakraborty, S. Das and J. Xu. Neural Information Processing Systems (NeurIPS). [<i class="fa-solid fa-book"></i> Paper](https://proceedings.neurips.cc/paper/2021/hash/460b491b917d4185ed1f5be97229721a-Abstract.html)
 
 (2021) [**On Uniform Concentration Bounds for Bi-clustering by using the Vapnik-Chervonenkis Theory**](https://www.sciencedirect.com/science/article/abs/pii/S016771522100064X). S. Chakraborty, and S. Das. Statistics and Probability Letters. [<i class="fa-solid fa-book"></i> Paper](https://www.sciencedirect.com/science/article/abs/pii/S016771522100064X)
 
