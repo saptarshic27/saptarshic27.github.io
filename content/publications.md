@@ -5,7 +5,7 @@ slug: research
 ---
 
 # Publications & Preprints 
-(2024) [**A Statistical Analysis of Deep Federated Learning for Intrinsically Low-dimensional Data**] S.Chakraborty and P. Bartlett.
+(2024) [**A Statistical Analysis of Deep Federated Learning for Intrinsically Low-dimensional Data**](https://arxiv.org/abs/2410.20659) S.Chakraborty and P. Bartlett. [<i class="ai ai-arxiv ai"></i> arXiv](https://arxiv.org/abs/2410.20659)
 
 (2024) [**On the Statistical Properties of Generative Adversarial Models for Low Intrinsic Data Dimension**](https://arxiv.org/abs/2401.15801).
 S. Chakraborty and P. Bartlett.
