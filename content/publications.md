@@ -5,7 +5,7 @@ slug: research
 ---
 
 # Publications & Preprints 
-(2025) [**Minimax Lower Bounds for Estimating Distributions on Low-dimensional Spaces**](https://openreview.net/forum?id=wIgRV336hC). S. Chakraborty. 
+(2025) [**Minimax Lower Bounds for Estimating Distributions on Low-dimensional Spaces**](https://openreview.net/forum?id=wIgRV336hC). S. Chakraborty. Transactions on Machine Learning Research. [<i class="fa-solid fa-book"></i> Paper](https://openreview.net/forum?id=wIgRV336hC)
 
 (2024) [**A Statistical Analysis for Supervised Deep Learning with Exponential Families for Intrinsically Low-dimensional Data**](https://arxiv.org/abs/2412.09779). S. Chakraborty and P. Bartlett. [<i class="ai ai-arxiv ai"></i> arXiv](https://arxiv.org/abs/2412.09779)
 
