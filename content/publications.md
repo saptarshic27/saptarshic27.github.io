@@ -6,7 +6,7 @@ slug: research
 
 # Publications & Preprints 
 
-(2025) [**Statistical Guarantees for Unpaired Image-to-Image Cross-Domain Analysis using GANs**](https://openreview.net/attachment?id=lUu0cJ2ifh&name=pdf). S. Chakraborty and P. Bartlett. International Conference on Artificial Intelligence and Statistics (AISTATS). To appear. [<i class="fa-solid fa-book"></i> Paper](https://openreview.net/attachment?id=lUu0cJ2ifh&name=pdf)
+(2025) [**Statistical Guarantees for Unpaired Image-to-Image Cross-Domain Analysis using GANs**](https://openreview.net/attachment?id=lUu0cJ2ifh&name=pdf). Saptarshi Chakraborty and Peter Bartlett. International Conference on Artificial Intelligence and Statistics (AISTATS). To appear. [<i class="fa-solid fa-book"></i> Paper](https://openreview.net/attachment?id=lUu0cJ2ifh&name=pdf)
 
 (2025) [**Minimax Rates for Distribution Estimation on Low-dimensional Spaces**](https://openreview.net/pdf?id=wIgRV336hC). S. Chakraborty. Transactions on Machine Learning Research (TMLR) [<i class="fa-solid fa-book"></i> Paper](https://openreview.net/pdf?id=wIgRV336hC)
 
