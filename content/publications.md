@@ -6,6 +6,8 @@ slug: research
 
 # Publications & Preprints 
 
+(2025) [**Minimax Rates for Distribution Estimation on Low-dimensional Spaces**](https://openreview.net/pdf?id=wIgRV336hC). S. Chakraborty. [<i class="fa-solid fa-book"></i> Paper](https://openreview.net/pdf?id=wIgRV336hC)
+
 (2024) [**A Statistical Analysis of Deep Federated Learning for Intrinsically Low-dimensional Data**](https://arxiv.org/abs/2410.20659). S. Chakraborty and P. Bartlett. [<i class="ai ai-arxiv ai"></i> arXiv](https://arxiv.org/abs/2410.20659)
 
 (2024) [**On the Statistical Properties of Generative Adversarial Models for Low Intrinsic Data Dimension**](https://arxiv.org/abs/2401.15801).
