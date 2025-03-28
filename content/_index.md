@@ -9,3 +9,16 @@ sitemap:
 ---
 
 I'm Saptarshi Chakraborty (সপ্তর্ষি চক্রবর্তী), a fifth-year Ph.D. student in Statistics at [the Department of Statistics, University of California, Berkeley](https://statistics.berkeley.edu/), where I am fortunate to be advised by [Prof. Peter Bartlett](https://www.stat.berkeley.edu/~bartlett/). Prior to joining Berkeley, I earned both my M.Stat and B. Stat (Hons.) degrees in Statistics from [Indian Statistical Institute (ISI), Kolkata](https://www.isical.ac.in/), India, under the guidance of [Prof. Swagatm Das](https://www.isical.ac.in/~swagatam.das/). Prior to that, I spent eleven enriching years of my childhood studying at [Hindu School](https://en.wikipedia.org/wiki/Hindu_School,_Kolkata), Kolkata.
+
+# Education
+(2020 - Present) [**University of California, Berkeley**](https://statistics.berkeley.edu/)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ph.D. in Statistics\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisor: [Prof. Peter Bartlett](https://www.stat.berkeley.edu/~bartlett/)
+<br>
+(2018-2020) [**Indian Statistical Institute, Kolkata, India**](https://www.isical.ac.in/).\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Master of Statistics (M.Stat), *first division with distinction*\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Specialization: Computational Statistics and Applied Statistics.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisor: [Prof. Swagatam Das](https://www.isical.ac.in/~swagatam.das/)
+<br>
+(2015-2018) [**Indian Statistical Institute, Kolkata, India**](https://www.isical.ac.in/).\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bachelor of Statistics, Honours (B.Stat, Hons.), *first division with distinction*
