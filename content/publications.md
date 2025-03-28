@@ -8,19 +8,19 @@ slug: research
 
 (2025) [**Statistical Guarantees for Unpaired Image-to-Image Cross-Domain Analysis using GANs**](https://openreview.net/attachment?id=lUu0cJ2ifh&name=pdf). Saptarshi Chakraborty and Peter Bartlett. International Conference on Artificial Intelligence and Statistics (AISTATS). To appear. [<i class="fa-solid fa-book"></i> Paper](https://openreview.net/attachment?id=lUu0cJ2ifh&name=pdf)
 
-(2025) [**Minimax Rates for Distribution Estimation on Low-dimensional Spaces**](https://openreview.net/pdf?id=wIgRV336hC). S. Chakraborty. Transactions on Machine Learning Research (TMLR) [<i class="fa-solid fa-book"></i> Paper](https://openreview.net/pdf?id=wIgRV336hC)
+(2025) [**Minimax Rates for Distribution Estimation on Low-dimensional Spaces**](https://openreview.net/pdf?id=wIgRV336hC). Saptarshi Chakraborty. Transactions on Machine Learning Research (TMLR) [<i class="fa-solid fa-book"></i> Paper](https://openreview.net/pdf?id=wIgRV336hC)
 
-(2024) [**A Statistical Analysis of Deep Federated Learning for Intrinsically Low-dimensional Data**](https://arxiv.org/abs/2410.20659). S. Chakraborty and P. Bartlett. [<i class="ai ai-arxiv ai"></i> arXiv](https://arxiv.org/abs/2410.20659)
+(2024) [**A Statistical Analysis of Deep Federated Learning for Intrinsically Low-dimensional Data**](https://arxiv.org/abs/2410.20659). Saptarshi Chakraborty and Peter Bartlett. [<i class="ai ai-arxiv ai"></i> arXiv](https://arxiv.org/abs/2410.20659)
 
 (2024) [**On the Statistical Properties of Generative Adversarial Models for Low Intrinsic Data Dimension**](https://arxiv.org/abs/2401.15801).
-S. Chakraborty and P. Bartlett.
+Saptarshi Chakraborty and Peter Bartlett.
 [<i class="ai ai-arxiv ai"></i> arXiv](https://arxiv.org/abs/2401.15801)
 
-(2024) [**A Statistical Analysis of Wasserstein Autoencoders for Intrinsically Low-dimensional Data**](https://openreview.net/pdf?id=WjRPZsfeBO). S. Chakraborty and P. Bartlett. International Conference on Learning Representations (ICLR). [<i class="fa-solid fa-book"></i> Paper](https://openreview.net/pdf?id=WjRPZsfeBO) &nbsp; [<i class="ai ai-arxiv ai"></i> arXiv](https://arxiv.org/pdf/2402.15710) &nbsp; [<i class="fab fa-github"></i> Github](https://github.com/SaptarshiC98/WAE).
+(2024) [**A Statistical Analysis of Wasserstein Autoencoders for Intrinsically Low-dimensional Data**](https://openreview.net/pdf?id=WjRPZsfeBO). Saptarshi Chakraborty and Peter Bartlett. International Conference on Learning Representations (ICLR). [<i class="fa-solid fa-book"></i> Paper](https://openreview.net/pdf?id=WjRPZsfeBO) &nbsp; [<i class="ai ai-arxiv ai"></i> arXiv](https://arxiv.org/pdf/2402.15710) &nbsp; [<i class="fab fa-github"></i> Github](https://github.com/SaptarshiC98/WAE).
 
-(2023) [**Biconvex Clustering**](https://www.tandfonline.com/doi/abs/10.1080/10618600.2023.2197474?journalCode=ucgs20). S. Chakraborty and J. Xu. Journal of Computational and Graphical Statistics. [<i class="fa-solid fa-book"></i> Paper](https://www.tandfonline.com/doi/abs/10.1080/10618600.2023.2197474?journalCode=ucgs20) &nbsp; [<i class="ai ai-arxiv ai"></i> arXiv](https://arxiv.org/pdf/2008.01760) &nbsp; [<i class="fab fa-github"></i> Github](https://github.com/SaptarshiC98/BCC).
+(2023) [**Biconvex Clustering**](https://www.tandfonline.com/doi/abs/10.1080/10618600.2023.2197474?journalCode=ucgs20). Saptarshi Chakraborty and Jason Xu. Journal of Computational and Graphical Statistics. [<i class="fa-solid fa-book"></i> Paper](https://www.tandfonline.com/doi/abs/10.1080/10618600.2023.2197474?journalCode=ucgs20) &nbsp; [<i class="ai ai-arxiv ai"></i> arXiv](https://arxiv.org/pdf/2008.01760) &nbsp; [<i class="fab fa-github"></i> Github](https://github.com/SaptarshiC98/BCC).
 
-(2023) [**Robust Principal Component Analysis: A Median of Means Approach**](https://ieeexplore.ieee.org/document/10210330). D. Paul, S. Chakraborty and S. Das. IEEE Transactions on Neural Networks and Learning Systems. [<i class="fa-solid fa-book"></i> Paper](https://ieeexplore.ieee.org/document/10210330)
+(2023) [**Robust Principal Component Analysis: A Median of Means Approach**](https://ieeexplore.ieee.org/document/10210330). Debolina Paul, Saptarshi Chakraborty and Swagatam Das. IEEE Transactions on Neural Networks and Learning Systems. [<i class="fa-solid fa-book"></i> Paper](https://ieeexplore.ieee.org/document/10210330)
 
 (2023) [**Clustering High-dimensional Data with Ordered Weighted L1 Regularization**](https://proceedings.mlr.press/v206/chakraborty23a.html). C. Chakraborty, S. Paul, S. Chakraborty, and S. Das. International Conference on Artificial Intelligence and Statistics (AISTATS). [<i class="fa-solid fa-book"></i> Paper](https://proceedings.mlr.press/v206/chakraborty23a.html) &nbsp; [<i class="fab fa-github"></i> Github](https://github.com/sayanpaul123/OWL_K_Means/).
 
