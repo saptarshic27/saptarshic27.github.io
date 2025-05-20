@@ -6,15 +6,15 @@ slug: research
 
 # Publications & Preprints 
 
+(2025) [**On the Statistical Properties of Generative Adversarial Models for Low Intrinsic Data Dimension**](https://arxiv.org/abs/2401.15801).
+Saptarshi Chakraborty and Peter Bartlett. Journal of Machine Learning Research (JMLR)
+[<i class="ai ai-arxiv ai"></i> arXiv](https://arxiv.org/abs/2401.15801)
+
 (2025) [**Statistical Guarantees for Unpaired Image-to-Image Cross-Domain Analysis using GANs**](https://openreview.net/attachment?id=lUu0cJ2ifh&name=pdf). Saptarshi Chakraborty and Peter Bartlett. International Conference on Artificial Intelligence and Statistics (AISTATS). To appear. [<i class="fa-solid fa-book"></i> Paper](https://openreview.net/attachment?id=lUu0cJ2ifh&name=pdf)
 
 (2025) [**Minimax Rates for Distribution Estimation on Low-dimensional Spaces**](https://openreview.net/pdf?id=wIgRV336hC). Saptarshi Chakraborty. Transactions on Machine Learning Research (TMLR) [<i class="fa-solid fa-book"></i> Paper](https://openreview.net/pdf?id=wIgRV336hC)
 
 (2024) [**A Statistical Analysis of Deep Federated Learning for Intrinsically Low-dimensional Data**](https://arxiv.org/abs/2410.20659). Saptarshi Chakraborty and Peter Bartlett. [<i class="ai ai-arxiv ai"></i> arXiv](https://arxiv.org/abs/2410.20659)
-
-(2024) [**On the Statistical Properties of Generative Adversarial Models for Low Intrinsic Data Dimension**](https://arxiv.org/abs/2401.15801).
-Saptarshi Chakraborty and Peter Bartlett.
-[<i class="ai ai-arxiv ai"></i> arXiv](https://arxiv.org/abs/2401.15801)
 
 (2024) [**A Statistical Analysis of Wasserstein Autoencoders for Intrinsically Low-dimensional Data**](https://openreview.net/pdf?id=WjRPZsfeBO). Saptarshi Chakraborty and Peter Bartlett. International Conference on Learning Representations (ICLR). [<i class="fa-solid fa-book"></i> Paper](https://openreview.net/pdf?id=WjRPZsfeBO) &nbsp; [<i class="ai ai-arxiv ai"></i> arXiv](https://arxiv.org/pdf/2402.15710) &nbsp; [<i class="fab fa-github"></i> Github](https://github.com/SaptarshiC98/WAE).
 
