@@ -9,7 +9,7 @@ slug: research
 (2025) [**On the Statistical Properties of Generative Adversarial Models for Low Intrinsic Data Dimension**](https://arxiv.org/abs/2401.15801).
 Saptarshi Chakraborty and Peter Bartlett. Journal of Machine Learning Research (JMLR). [<i class="ai ai-arxiv ai"></i> arXiv](https://arxiv.org/abs/2401.15801)
 
-(2025) [**Statistical Guarantees for Unpaired Image-to-Image Cross-Domain Analysis using GANs**](https://openreview.net/attachment?id=lUu0cJ2ifh&name=pdf). Saptarshi Chakraborty and Peter Bartlett. International Conference on Artificial Intelligence and Statistics (AISTATS). [<i class="fa-solid fa-book"></i> Paper](https://openreview.net/attachment?id=lUu0cJ2ifh&name=pdf)
+(2025) [**Statistical Guarantees for Unpaired Image-to-Image Cross-Domain Analysis using GANs**](https://openreview.net/attachment?id=lUu0cJ2ifh&name=pdf). Saptarshi Chakraborty and Peter Bartlett. International Conference on Artificial Intelligence and Statistics (AISTATS). [<i class="fa-solid fa-book"></i> Paper](https://proceedings.mlr.press/v258/chakraborty25b.html)
 
 (2025) [**Minimax Rates for Distribution Estimation on Low-dimensional Spaces**](https://openreview.net/pdf?id=wIgRV336hC). Saptarshi Chakraborty. Transactions on Machine Learning Research (TMLR) [<i class="fa-solid fa-book"></i> Paper](https://openreview.net/pdf?id=wIgRV336hC)
 
