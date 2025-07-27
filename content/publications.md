@@ -7,7 +7,7 @@ slug: research
 # Publications & Preprints 
 
 (2025) [**On the Statistical Properties of Generative Adversarial Models for Low Intrinsic Data Dimension**](https://arxiv.org/abs/2401.15801).
-Saptarshi Chakraborty and Peter Bartlett. Journal of Machine Learning Research (JMLR). [<i class="ai ai-arxiv ai"></i> arXiv](https://arxiv.org/abs/2401.15801) [<i class="fa-solid fa-book"></i> Paper](https://www.jmlr.org/papers/v26/24-0054.html)
+Saptarshi Chakraborty and Peter Bartlett. Journal of Machine Learning Research (JMLR). [<i class="ai ai-arxiv ai"></i> arXiv](https://arxiv.org/abs/2401.15801)  [<i class="fa-solid fa-book"></i> Paper](https://www.jmlr.org/papers/v26/24-0054.html)
 
 (2025) [**Statistical Guarantees for Unpaired Image-to-Image Cross-Domain Analysis using GANs**](https://openreview.net/attachment?id=lUu0cJ2ifh&name=pdf). Saptarshi Chakraborty and Peter Bartlett. International Conference on Artificial Intelligence and Statistics (AISTATS). [<i class="fa-solid fa-book"></i> Paper](https://proceedings.mlr.press/v258/chakraborty25b.html)
 
