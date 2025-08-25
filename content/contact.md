@@ -5,8 +5,8 @@ math: true
 hide_title: true
 ---
 
-  Email: <span style="color: navy;">saptarshic@berkeley.edu</span>.\
-  Office address: 393 Evans Hall, University Drive, Berkeley, CA, 94720.
+  Email: <span style="color: navy;">saptarsc@umich.edu</span>.\
+  Office address: 456 West Hall
 
   
   <!-- Add a style tag with CSS to control the layout -->
