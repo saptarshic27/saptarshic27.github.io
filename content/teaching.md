@@ -2,8 +2,11 @@
 title: "Teaching"
 hide_title: true
 ---
+# Teaching 
 
-# Teaching Assistant
+I am teaching [STATS 426 002: Introduction to Theoretical Statistics](https://umich.instructure.com/courses/797194) this fall.
+
+# Graduate Student Instructor
 I was a Graduate Student Instructor (GSI) for the following courses at UC Berkeley.
 
 [**STAT 154/254**: Modern Statistical Prediction and Machine Learning](https://classes.berkeley.edu/content/2023-spring-stat-154-001-lec-001) - *Spring, 2023*.
