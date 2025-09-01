@@ -4,7 +4,7 @@ hide_title: true
 ---
 # Teaching 
 
-I am teaching [STATS 426 002: Introduction to Theoretical Statistics](https://umich.instructure.com/courses/797194) this fall.
+I am teaching [STATS 426 002: Introduction to Theoretical Statistics](https://saptarshic27.github.io/stats426/) this fall.
 
 # Graduate Student Instructor
 I was a Graduate Student Instructor (GSI) for the following courses at UC Berkeley.
