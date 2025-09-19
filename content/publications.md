@@ -18,6 +18,11 @@ Saptarshi Chakraborty and Peter Bartlett. *International Conference on Artificia
 Saptarshi Chakraborty. *Transactions on Machine Learning Research (TMLR).*  
 [<i class="fa-solid fa-book"></i> Paper](https://openreview.net/pdf?id=wIgRV336hC)
 
+
+(2024) [**A Statistical Analysis for Supervised Deep Learning with Exponential Families for Intrinsically Low-dimensional Data**](https://arxiv.org/abs/2412.09779).  
+Saptarshi Chakraborty and Peter Bartlett.  
+[<i class="ai ai-arxiv"></i> arXiv](https://arxiv.org/abs/2412.09779)
+
 (2024) [**A Statistical Analysis of Deep Federated Learning for Intrinsically Low-dimensional Data**](https://arxiv.org/abs/2410.20659).  
 Saptarshi Chakraborty and Peter Bartlett.  
 [<i class="ai ai-arxiv"></i> arXiv](https://arxiv.org/abs/2410.20659)
