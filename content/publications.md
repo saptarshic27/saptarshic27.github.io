@@ -6,7 +6,8 @@ slug: research
 
 # Publications & Preprints 
 
-(2026) **Convex Clustering Redefined: Robust Learning With the Median of Means Estimator**. Koustav Chowdhury, Bibhabasu Mandal, Sourav De, Sagar Ghosh, Swagatam Das, Debolina Paul, Saptarshi Chakraborty. AAAI, 2026. To appear.
+(2026) **Convex Clustering Redefined: Robust Learning With the Median of Means Estimator**. 
+Koustav Chowdhury, Bibhabasu Mandal, Sourav De, Sagar Ghosh, Swagatam Das, Debolina Paul, Saptarshi Chakraborty. AAAI, 2026. To appear.
 
 (2025) [**On the Statistical Properties of Generative Adversarial Models for Low Intrinsic Data Dimension**](https://arxiv.org/abs/2401.15801).  
 Saptarshi Chakraborty and Peter Bartlett. *Journal of Machine Learning Research (JMLR).*  
