@@ -66,6 +66,10 @@ Debolina Paul, Saptarshi Chakraborty, Swagatam Das and Jason Xu. *NeurIPS.*
 Saptarshi Chakraborty and Swagatam Das. *Statistics and Probability Letters.*  
 [<i class="fa-solid fa-book"></i> Paper](https://www.sciencedirect.com/science/article/abs/pii/S016771522100064X)
 
+(2021) [**$t$-Entropy: A New Measure of Uncertainty with Some Applications**](https://ieeexplore.ieee.org/document/9518114).  
+Saptarshi Chakraborty, Debolina Paul and Swagatam Das. *ISIT.*  
+[<i class="fa-solid fa-book"></i> Paper](https://ieeexplore.ieee.org/document/9518114) &nbsp; [<i class="ai ai-arxiv"></i> arXiv](https://arxiv.org/pdf/2105.00316) &nbsp; [<i class="fab fa-github"></i> Github](https://github.com/DebolinaPaul/t-entropy)
+
 (2021) [**Automated Clustering of High-dimensional Data with a Feature Weighted Mean-shift Algorithm**](https://ojs.aaai.org/index.php/AAAI/article/view/16854).  
 Saptarshi Chakraborty, Debolina Paul and Swagatam Das. *AAAI.*  
 [<i class="fa-solid fa-book"></i> Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16854) &nbsp; [<i class="ai ai-arxiv"></i> arXiv](https://arxiv.org/pdf/2012.10929) &nbsp; [<i class="fab fa-github"></i> Github](https://github.com/SaptarshiC98/WBMSC)
