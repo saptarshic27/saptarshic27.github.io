@@ -48,7 +48,7 @@ Chandramouli Chakraborty, Sayan Paul, Saptarshi Chakraborty, and Swagatam Das. *
 [<i class="fa-solid fa-book"></i> Paper](https://proceedings.mlr.press/v206/chakraborty23a.html) &nbsp; [<i class="fab fa-github"></i> Github](https://github.com/sayanpaul123/OWL_K_Means)
 
 (2022) [**Bregman Power k-Means for Clustering Exponential Family Data**](https://proceedings.mlr.press/v162/vellal22a.html).  
-Adithya Vellal, Saptarshi Chakraborty and Jason Xu. *ICML.*  
+Adithya Vellal, Saptarshi Chakraborty and Jason Xu. *ICML.* Spotlight.  
 [<i class="fa-solid fa-book"></i> Paper](https://proceedings.mlr.press/v162/vellal22a.html) &nbsp; [<i class="fab fa-github"></i> Github](https://github.com/avellal14/bregman_power_kmeans)
 
 (2022) [**Implicit Annealing in Kernel Spaces: A Strongly Consistent Clustering Approach**](https://ieeexplore.ieee.org/document/9928792).  
@@ -60,7 +60,7 @@ Debolina Paul, Saptarshi Chakraborty, and Swagatam Das. *IEEE Transactions on Cy
 [<i class="fa-solid fa-book"></i> Paper](https://ieeexplore.ieee.org/document/9781349)
 
 (2021) [**Uniform Concentration Bounds toward a Unified Framework for Robust Clustering**](https://proceedings.neurips.cc/paper/2021/hash/460b491b917d4185ed1f5be97229721a-Abstract.html).  
-Debolina Paul, Saptarshi Chakraborty, Swagatam Das and Jason Xu. *NeurIPS.*  
+Debolina Paul, Saptarshi Chakraborty, Swagatam Das and Jason Xu. *NeurIPS.* Spotlight. 
 [<i class="fa-solid fa-book"></i> Paper](https://proceedings.neurips.cc/paper/2021/hash/460b491b917d4185ed1f5be97229721a-Abstract.html)
 
 (2021) [**On Uniform Concentration Bounds for Bi-clustering using VC Theory**](https://www.sciencedirect.com/science/article/abs/pii/S016771522100064X).  
