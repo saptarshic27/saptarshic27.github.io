@@ -4,7 +4,9 @@ hide_title: true
 ---
 # Teaching 
 
-I am teaching [STATS 426 002: Introduction to Theoretical Statistics](https://saptarshic27.github.io/stats426/) this fall.
+I am teaching [STATS 426 002: Introduction to Theoretical Statistics](https://saptarshic27.github.io/stats426w26/) this semester. 
+
+[STATS 426 002: Introduction to Theoretical Statistics](https://saptarshic27.github.io/stats426/) - *Fall, 2025*.
 
 # Graduate Student Instructor
 I was a Graduate Student Instructor (GSI) for the following courses at UC Berkeley.
