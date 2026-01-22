@@ -6,6 +6,8 @@ slug: research
 
 # Publications & Preprints 
 
+(2026) **Efficient Logistic Regression with Mixture of Sigmoids** Federico Di Gennaro, Saptarshi Chakraborty, Nikita Zhivotovskiy. AISTATS, 2026. To appear.
+
 (2026) [**Convex Clustering Redefined: Robust Learning With the Median of Means Estimator**.](https://arxiv.org/abs/2511.14784) 
 Koustav Chowdhury, Bibhabasu Mandal, Sourav De, Sagar Ghosh, Swagatam Das, Debolina Paul, Saptarshi Chakraborty. AAAI, 2026. To appear.
 [<i class="ai ai-arxiv"></i> arXiv](https://arxiv.org/abs/2511.14784)
