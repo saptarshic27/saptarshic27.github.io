@@ -6,6 +6,8 @@ slug: research
 
 # Publications & Preprints 
 
+(2026) Generalization Properties of Score-matching Diffusion Model for Intrinsically Low-dimensional Data. Saptarshi Chakraborty, Quentin Berthet and Peter Bartlett. [<i class="fa-solid fa-book"></i> Paper](https://saptarshic27.github.io/sgm.pdf)
+
 (2026) **Efficient Logistic Regression with Mixture of Sigmoids**. Federico Di Gennaro, Saptarshi Chakraborty, Nikita Zhivotovskiy. *International Conference on Artificial Intelligence and Statistics (AISTATS).* To appear.
 
 (2026) [**Convex Clustering Redefined: Robust Learning With the Median of Means Estimator**.](https://arxiv.org/abs/2511.14784) 
