@@ -3,9 +3,9 @@ title: "Students"
 hide_title: true
 ---
 # Current PhD Students
-[Jiaxun (Jason) Li](https://lsa.umich.edu/stats/people/phd-students/jasonli.html), 2025 - present.
-[Dongsun Yoon](https://lsa.umich.edu/stats/people/phd-students/dsyoon.html), 2025-present.
-[Ishan Paul](https://lsa.umich.edu/stats/people/phd-students/ishanpl.html), 2025-present.
+[Jiaxun (Jason) Li](https://lsa.umich.edu/stats/people/phd-students/jasonli.html), 2025 - present.<br>
+[Dongsun Yoon](https://lsa.umich.edu/stats/people/phd-students/dsyoon.html), 2025-present.<br>
+[Ishan Paul](https://lsa.umich.edu/stats/people/phd-students/ishanpl.html), 2025-present.<br>
 
 
 
