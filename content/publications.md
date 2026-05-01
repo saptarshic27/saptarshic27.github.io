@@ -16,29 +16,18 @@ slug: research
 Koustav Chowdhury, Bibhabasu Mandal, Sourav De, Sagar Ghosh, Swagatam Das, Debolina Paul, Saptarshi Chakraborty. AAAI, 2026.
 [<i class="fa-solid fa-book"></i> Paper](https://ojs.aaai.org/index.php/AAAI/article/view/39197) &nbsp; [<i class="ai ai-arxiv"></i> arXiv](https://arxiv.org/abs/2511.14784) &nbsp; [<i class="fa-solid fa-video"></i> Talk](https://underline.io/lecture/141497-convex-clustering-redefined-robust-learning-with-the-median-of-means-estimator)
 
-(2025) [**On the Statistical Properties of Generative Adversarial Models for Low Intrinsic Data Dimension**](https://arxiv.org/abs/2401.15801). Saptarshi Chakraborty and Peter Bartlett. *Journal of Machine Learning Research (JMLR).*  
-[<i class="ai ai-arxiv"></i> arXiv](https://arxiv.org/abs/2401.15801) &nbsp; [<i class="fa-solid fa-book"></i> Paper](https://www.jmlr.org/papers/v26/24-0054.html)
+(2025) [**On the Statistical Properties of Generative Adversarial Models for Low Intrinsic Data Dimension**](https://arxiv.org/abs/2401.15801). Saptarshi Chakraborty and Peter Bartlett. *Journal of Machine Learning Research (JMLR).* [<i class="ai ai-arxiv"></i> arXiv](https://arxiv.org/abs/2401.15801) &nbsp; [<i class="fa-solid fa-book"></i> Paper](https://www.jmlr.org/papers/v26/24-0054.html)
 
-(2025) [**Statistical Guarantees for Unpaired Image-to-Image Cross-Domain Analysis using GANs**](https://proceedings.mlr.press/v258/chakraborty25b.html).  
-Saptarshi Chakraborty and Peter Bartlett. *International Conference on Artificial Intelligence and Statistics (AISTATS).*  
-[<i class="fa-solid fa-book"></i> Paper](https://proceedings.mlr.press/v258/chakraborty25b.html)
+(2025) [**Statistical Guarantees for Unpaired Image-to-Image Cross-Domain Analysis using GANs**](https://proceedings.mlr.press/v258/chakraborty25b.html). Saptarshi Chakraborty and Peter Bartlett. *International Conference on Artificial Intelligence and Statistics (AISTATS).* [<i class="fa-solid fa-book"></i> Paper](https://proceedings.mlr.press/v258/chakraborty25b.html)
 
-(2025) [**Minimax Rates for Distribution Estimation on Low-dimensional Spaces**](https://openreview.net/pdf?id=wIgRV336hC).  
-Saptarshi Chakraborty. *Transactions on Machine Learning Research (TMLR).*  
-[<i class="fa-solid fa-book"></i> Paper](https://openreview.net/pdf?id=wIgRV336hC)
+(2025) [**Minimax Rates for Distribution Estimation on Low-dimensional Spaces**](https://openreview.net/pdf?id=wIgRV336hC). Saptarshi Chakraborty. *Transactions on Machine Learning Research (TMLR).* [<i class="fa-solid fa-book"></i> Paper](https://openreview.net/pdf?id=wIgRV336hC)
 
 
-(2024) [**A Statistical Analysis for Supervised Deep Learning with Exponential Families for Intrinsically Low-dimensional Data**](https://arxiv.org/abs/2412.09779).  
-Saptarshi Chakraborty and Peter Bartlett.  
-[<i class="ai ai-arxiv"></i> arXiv](https://arxiv.org/abs/2412.09779)
+(2024) [**A Statistical Analysis for Supervised Deep Learning with Exponential Families for Intrinsically Low-dimensional Data**](https://arxiv.org/abs/2412.09779). Saptarshi Chakraborty and Peter Bartlett. [<i class="ai ai-arxiv"></i> arXiv](https://arxiv.org/abs/2412.09779)
 
-(2024) [**A Statistical Analysis of Deep Federated Learning for Intrinsically Low-dimensional Data**](https://arxiv.org/abs/2410.20659).  
-Saptarshi Chakraborty and Peter Bartlett.  
-[<i class="ai ai-arxiv"></i> arXiv](https://arxiv.org/abs/2410.20659)
+(2024) [**A Statistical Analysis of Deep Federated Learning for Intrinsically Low-dimensional Data**](https://arxiv.org/abs/2410.20659). Saptarshi Chakraborty and Peter Bartlett. [<i class="ai ai-arxiv"></i> arXiv](https://arxiv.org/abs/2410.20659)
 
-(2024) [**A Statistical Analysis of Wasserstein Autoencoders for Intrinsically Low-dimensional Data**](https://openreview.net/pdf?id=WjRPZsfeBO).  
-Saptarshi Chakraborty and Peter Bartlett. *International Conference on Learning Representations (ICLR).*  
-[<i class="fa-solid fa-book"></i> Paper](https://openreview.net/pdf?id=WjRPZsfeBO) &nbsp; [<i class="ai ai-arxiv"></i> arXiv](https://arxiv.org/pdf/2402.15710) &nbsp; [<i class="fab fa-github"></i> Github](https://github.com/SaptarshiC98/WAE)
+(2024) [**A Statistical Analysis of Wasserstein Autoencoders for Intrinsically Low-dimensional Data**](https://openreview.net/pdf?id=WjRPZsfeBO). Saptarshi Chakraborty and Peter Bartlett. *International Conference on Learning Representations (ICLR).* [<i class="fa-solid fa-book"></i> Paper](https://openreview.net/pdf?id=WjRPZsfeBO) &nbsp; [<i class="ai ai-arxiv"></i> arXiv](https://arxiv.org/pdf/2402.15710) &nbsp; [<i class="fab fa-github"></i> Github](https://github.com/SaptarshiC98/WAE)
 
 (2023) [**Biconvex Clustering**](https://www.tandfonline.com/doi/abs/10.1080/10618600.2023.2197474?journalCode=ucgs20).  
 Saptarshi Chakraborty and Jason Xu. *Journal of Computational and Graphical Statistics.*  
