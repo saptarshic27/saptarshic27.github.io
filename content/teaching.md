@@ -4,9 +4,9 @@ hide_title: true
 ---
 # Teaching 
 
-I am teaching [STATS 426 002: Introduction to Theoretical Statistics](https://saptarshic27.github.io/stats426w26/) this semester. 
-
 **Past Courses:**
+
+[STATS 426 002: Introduction to Theoretical Statistics](https://saptarshic27.github.io/stats426w26/) - *Winter, 2025*.
 
 [STATS 426 002: Introduction to Theoretical Statistics](https://saptarshic27.github.io/stats426/) - *Fall, 2025*.
 
