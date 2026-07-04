@@ -10,7 +10,7 @@ slug: research
 
 (2026) [**Efficient Logistic Regression with Mixture of Sigmoids**](https://arxiv.org/abs/2604.02920). Federico Di Gennaro, Saptarshi Chakraborty, Nikita Zhivotovskiy. *International Conference on Artificial Intelligence and Statistics (AISTATS).* To appear. [<i class="ai ai-arxiv"></i> arXiv](https://arxiv.org/abs/2604.02920)
 
-(2026) A New Framework for Convex Clustering in Kernel Spaces: Finite Sample Bounds, Consistency and Performance Insights. Shubhayan Pan, Saptarshi Chakraborty, Debolina Paul, Kushal Bose, and Swagatam Das. IJCAI-ECAI. Accepted.
+(2026) [**A New Framework for Convex Clustering in Kernel Spaces: Finite Sample Bounds, Consistency and Performance Insights**](https://arxiv.org/abs/2511.05159). Shubhayan Pan, Saptarshi Chakraborty, Debolina Paul, Kushal Bose, and Swagatam Das. IJCAI-ECAI. Accepted.
 
 (2026) [**Convex Clustering Redefined: Robust Learning With the Median of Means Estimator**.](https://arxiv.org/abs/2511.14784) 
 Koustav Chowdhury, Bibhabasu Mandal, Sourav De, Sagar Ghosh, Swagatam Das, Debolina Paul, Saptarshi Chakraborty. AAAI, 2026.
