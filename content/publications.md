@@ -6,7 +6,7 @@ slug: research
 
 # Publications & Preprints 
 
-(2026) [**Generalization Properties of Score-matching Diffusion Models for Intrinsically Low-dimensional Data**](https://arxiv.org/abs/2603.03700). 
+(2026) [**Generalization Properties of Score-matching Diffusion Models for Intrinsically Low-dimensional Data**](https://arxiv.org/abs/2603.03700).  
 Saptarshi Chakraborty, Quentin Berthet and Peter Bartlett. 
 [<i class="ai ai-arxiv"></i> arXiv](https://arxiv.org/abs/2603.03700)
 
