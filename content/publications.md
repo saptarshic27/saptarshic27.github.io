@@ -12,7 +12,7 @@ Saptarshi Chakraborty, Quentin Berthet and Peter Bartlett.
 
 (2026) [**Efficient Logistic Regression with Mixture of Sigmoids**](https://arxiv.org/abs/2604.02920).  
 Federico Di Gennaro, Saptarshi Chakraborty, Nikita Zhivotovskiy. *International Conference on Artificial Intelligence and Statistics (AISTATS).*  
-[<i class="ai ai-arxiv"></i> arXiv](https://arxiv.org/abs/2604.02920)
+[<i class="ai ai-arxiv"></i> arXiv](https://arxiv.org/abs/2604.02920) &nbsp; [<i class="fab fa-github"></i> Github](https://github.com/FedericoDiGennaro/Efficient-LogReg-with-Mixture-of-Sigmoids)
 
 (2026) [**A New Framework for Convex Clustering in Kernel Spaces: Finite Sample Bounds, Consistency and Performance Insights**](https://arxiv.org/abs/2511.05159).  
 Shubhayan Pan, Saptarshi Chakraborty, Debolina Paul, Kushal Bose, and Swagatam Das. *International Joint Conference on Artificial Intelligence (IJCAI-ECAI).* Accepted.  
