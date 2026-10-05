@@ -5,6 +5,9 @@ slug: research
 ---
 
 # Publications & Preprints 
+(2026) [**Generalization Bounds for Flow-matching Generative Models for Intrinsically Low-dimensional Data**](https://arxiv.org/abs/2610.02663).
+Saptarshi Chakraborty, Quentin Berthet and Peter Bartlett. 
+[<i class="ai ai-arxiv"></i> arXiv](https://arxiv.org/abs/2610.02663)
 
 (2026) [**Generalization Properties of Score-matching Diffusion Models for Intrinsically Low-dimensional Data**](https://arxiv.org/abs/2603.03700).  
 Saptarshi Chakraborty, Quentin Berthet and Peter Bartlett.  
