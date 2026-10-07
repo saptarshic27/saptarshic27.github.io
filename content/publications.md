@@ -5,8 +5,12 @@ slug: research
 ---
 
 # Publications & Preprints 
-(2026) [**Generalization Bounds for Flow-matching Generative Models for Intrinsically Low-dimensional Data**](https://arxiv.org/abs/2610.02663).
-Saptarshi Chakraborty, Quentin Berthet and Peter Bartlett. 
+(2026) [**Uniform Discrete Diffusion Models are Minimax Optimal for Estimating Distributions with Small Effective Support Size**](https://arxiv.org/abs/2610.07655). <br>
+Dongsun Yoon and Saptarshi Chakraborty. <br>
+[<i class="ai ai-arxiv"></i> arXiv](https://arxiv.org/abs/2610.07655)
+
+(2026) [**Generalization Bounds for Flow-matching Generative Models for Intrinsically Low-dimensional Data**](https://arxiv.org/abs/2610.02663).<br>
+Saptarshi Chakraborty, Quentin Berthet and Peter Bartlett. <br>
 [<i class="ai ai-arxiv"></i> arXiv](https://arxiv.org/abs/2610.02663)
 
 (2026) [**Generalization Properties of Score-matching Diffusion Models for Intrinsically Low-dimensional Data**](https://arxiv.org/abs/2603.03700).  
